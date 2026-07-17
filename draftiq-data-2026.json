@@ -1,6 +1,6 @@
 {
-  "version": "2026-2026-07-17T11:45:15.626640+00:00",
-  "updatedAt": "2026-07-17T11:45:15.626640+00:00",
+  "version": "2026-2026-07-17T12:32:02.572900+00:00",
+  "updatedAt": "2026-07-17T12:32:02.572900+00:00",
   "league": "plantation",
   "season": 2026,
   "positionColors": {
@@ -2074,7 +2074,7 @@
       },
       "sourceAdp": {
         "yahoo": 8.0,
-        "espn": 8.3,
+        "espn": 8.4,
         "sleeper": 8.0
       },
       "sourceBreakdown": {
@@ -2086,7 +2086,7 @@
         "espn": {
           "projection": 308.8,
           "projectedPpg": 18.16,
-          "adp": 8.3
+          "adp": 8.4
         },
         "sleeper": {
           "projection": 295.3,
@@ -2099,7 +2099,7 @@
           "adp": 8.1
         }
       },
-      "espnAdp": 8.3,
+      "espnAdp": 8.4,
       "espnProjection": 308.8,
       "espnProjectedPpg": 18.16,
       "sleeperAdp": 8.0,
@@ -3720,7 +3720,7 @@
       },
       "sourceAdp": {
         "yahoo": 12.0,
-        "espn": 13.5,
+        "espn": 13.6,
         "sleeper": 18.0
       },
       "sourceBreakdown": {
@@ -3732,7 +3732,7 @@
         "espn": {
           "projection": 281.5,
           "projectedPpg": 16.56,
-          "adp": 13.5
+          "adp": 13.6
         },
         "sleeper": {
           "projection": 256.8,
@@ -3745,7 +3745,7 @@
           "adp": 14.5
         }
       },
-      "espnAdp": 13.5,
+      "espnAdp": 13.6,
       "espnProjection": 281.5,
       "espnProjectedPpg": 16.56,
       "sleeperAdp": 18.0,
@@ -4381,7 +4381,7 @@
       },
       "sourceAdp": {
         "yahoo": 14.0,
-        "espn": 20.1,
+        "espn": 20.2,
         "sleeper": 20.5
       },
       "sourceBreakdown": {
@@ -4393,7 +4393,7 @@
         "espn": {
           "projection": 269.7,
           "projectedPpg": 15.87,
-          "adp": 20.1
+          "adp": 20.2
         },
         "sleeper": {
           "projection": 240.1,
@@ -4406,7 +4406,7 @@
           "adp": 18.2
         }
       },
-      "espnAdp": 20.1,
+      "espnAdp": 20.2,
       "espnProjection": 269.7,
       "espnProjectedPpg": 15.87,
       "sleeperAdp": 20.5,
@@ -5191,7 +5191,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Walker signed with the Chiefs after spending his first four NFL seasons with the Seahawks. The reigning Super Bowl MVP and PFF's highest-graded running back from 2025, Walker is poised for feature-back duties in a good, Andy Reid-led offense. Having worked in a committee most of last season, Walker was limited to only five touchdowns and 11.3 fantasy points per game (both career lows), but he still generated 252 touches and a career-high 1,309 yards. He has yet to finish a season better than 18th in fantasy points (12th on a per-game basis) and has missed at least two games in three of four seasons in the league, but the 25-year-old's ability to contribute at a high level as a rusher and receiver is enough to position him as, at least, a solid fantasy RB2 in 2026.",
-      "adp": 20.0,
+      "adp": 20.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -5210,7 +5210,7 @@
       },
       "sourceAdp": {
         "yahoo": 20.0,
-        "espn": 28.1,
+        "espn": 28.2,
         "sleeper": 12.0
       },
       "sourceBreakdown": {
@@ -5222,7 +5222,7 @@
         "espn": {
           "projection": 272.5,
           "projectedPpg": 16.03,
-          "adp": 28.1
+          "adp": 28.2
         },
         "sleeper": {
           "projection": 270.3,
@@ -5232,10 +5232,10 @@
         "master": {
           "projection": 279.3,
           "projectedPpg": 16.43,
-          "adp": 20.0
+          "adp": 20.1
         }
       },
-      "espnAdp": 28.1,
+      "espnAdp": 28.2,
       "espnProjection": 272.5,
       "espnProjectedPpg": 16.03,
       "sleeperAdp": 12.0,
@@ -5264,7 +5264,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 3.0
+        "value": 3.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4567048.png",
       "stats": {
@@ -5547,7 +5547,7 @@
       },
       "sourceAdp": {
         "yahoo": 15.0,
-        "espn": 27.2,
+        "espn": 27.3,
         "sleeper": 19.0
       },
       "sourceBreakdown": {
@@ -5559,7 +5559,7 @@
         "espn": {
           "projection": 272.3,
           "projectedPpg": 16.02,
-          "adp": 27.2
+          "adp": 27.3
         },
         "sleeper": {
           "projection": 254.4,
@@ -5572,7 +5572,7 @@
           "adp": 20.4
         }
       },
-      "espnAdp": 27.2,
+      "espnAdp": 27.3,
       "espnProjection": 272.3,
       "espnProjectedPpg": 16.02,
       "sleeperAdp": 19.0,
@@ -5884,7 +5884,7 @@
       },
       "sourceAdp": {
         "yahoo": 17.0,
-        "espn": 23.6,
+        "espn": 23.7,
         "sleeper": 29.0
       },
       "sourceBreakdown": {
@@ -5896,7 +5896,7 @@
         "espn": {
           "projection": 249.4,
           "projectedPpg": 14.67,
-          "adp": 23.6
+          "adp": 23.7
         },
         "sleeper": {
           "projection": 225.8,
@@ -5909,7 +5909,7 @@
           "adp": 23.2
         }
       },
-      "espnAdp": 23.6,
+      "espnAdp": 23.7,
       "espnProjection": 249.4,
       "espnProjectedPpg": 14.67,
       "sleeperAdp": 29.0,
@@ -7115,7 +7115,7 @@
       },
       "sourceAdp": {
         "yahoo": 21.0,
-        "espn": 27.5,
+        "espn": 27.6,
         "sleeper": 16.0
       },
       "sourceBreakdown": {
@@ -7127,7 +7127,7 @@
         "espn": {
           "projection": 239.4,
           "projectedPpg": 14.08,
-          "adp": 27.5
+          "adp": 27.6
         },
         "sleeper": {
           "projection": 248.2,
@@ -7140,7 +7140,7 @@
           "adp": 21.5
         }
       },
-      "espnAdp": 27.5,
+      "espnAdp": 27.6,
       "espnProjection": 239.4,
       "espnProjectedPpg": 14.08,
       "sleeperAdp": 16.0,
@@ -7567,7 +7567,7 @@
       },
       "sourceAdp": {
         "yahoo": 26.0,
-        "espn": 33.3,
+        "espn": 33.5,
         "sleeper": 36.0
       },
       "sourceBreakdown": {
@@ -7579,7 +7579,7 @@
         "espn": {
           "projection": 244.6,
           "projectedPpg": 14.39,
-          "adp": 33.3
+          "adp": 33.5
         },
         "sleeper": {
           "projection": 213.0,
@@ -7592,7 +7592,7 @@
           "adp": 31.8
         }
       },
-      "espnAdp": 33.3,
+      "espnAdp": 33.5,
       "espnProjection": 244.6,
       "espnProjectedPpg": 14.39,
       "sleeperAdp": 36.0,
@@ -7872,7 +7872,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Nabers is on the comeback trail after a torn ACL limited him to only four appearances last season. In 18 full games in his career, Nabers has a massive 35% target share (11.3 per game) and he's averaging 18.2 fantasy PPG. As a rookie, the 2024 sixth overall pick finished seventh or better among receivers in targets, receptions, yards and fantasy points despite missing two games and dealing with New York's offensive struggles. Nabers' massive target share allowed him a high floor, as he was a top-30 fantasy scorer in 13 of 15 games, including 10 straight to end the 2024 season. He essentially has a new quarterback (Jaxson Dart threw only three passes his way last season), a new coach (John Harbaugh), a new offensive playcaller (Matt Nagy) and is recovering from the knee, so there are a lot of variables here, but the 23-year-old still holds elite upside. A healthy Nabers should be valued as a mid-to-back-end WR1, but the potential for a slow start (perhaps including missed games) needs to be considered on draft day.",
-      "adp": 24.3,
+      "adp": 24.4,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -7891,7 +7891,7 @@
       },
       "sourceAdp": {
         "yahoo": 24.0,
-        "espn": 29.9,
+        "espn": 30.1,
         "sleeper": 19.0
       },
       "sourceBreakdown": {
@@ -7903,7 +7903,7 @@
         "espn": {
           "projection": 218.0,
           "projectedPpg": 14.53,
-          "adp": 29.9
+          "adp": 30.1
         },
         "sleeper": {
           "projection": 242.2,
@@ -7913,10 +7913,10 @@
         "master": {
           "projection": 231.9,
           "projectedPpg": 14.21,
-          "adp": 24.3
+          "adp": 24.4
         }
       },
-      "espnAdp": 29.9,
+      "espnAdp": 30.1,
       "espnProjection": 218.0,
       "espnProjectedPpg": 14.53,
       "sleeperAdp": 19.0,
@@ -7945,7 +7945,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -1.7
+        "value": -1.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png",
       "stats": {
@@ -8059,7 +8059,7 @@
       },
       "sourceAdp": {
         "yahoo": 31.0,
-        "espn": 25.3,
+        "espn": 25.4,
         "sleeper": 42.0
       },
       "sourceBreakdown": {
@@ -8071,7 +8071,7 @@
         "espn": {
           "projection": 269.8,
           "projectedPpg": 15.87,
-          "adp": 25.3
+          "adp": 25.4
         },
         "sleeper": {
           "projection": 204.3,
@@ -8084,7 +8084,7 @@
           "adp": 32.8
         }
       },
-      "espnAdp": 25.3,
+      "espnAdp": 25.4,
       "espnProjection": 269.8,
       "espnProjectedPpg": 15.87,
       "sleeperAdp": 42.0,
@@ -8260,7 +8260,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Henry continues to defy the odds, playing at a high level despite now entering his age-32 season. In 2025, he finished exactly second in the NFL in rushing yards for the fourth season in a row, and his 24 carries inside the 5-yard line were easily the most in the league. Henry leads the NFL in carries inside the 5-yard line (42) and is second in touchdowns (34) since joining Baltimore prior to the 2024 season, and he hasn't finished lower than eighth among RBs in touchdowns since 2017. Henry continues to run at a high level (his 5.20 yards per carry last season ranked fifth among qualified backs), but he's still a nonfactor as a receiver (outside the top 45 backs in targets, catches and yards last season). He remains a featured rusher in a terrific offense and is well positioned for his fifth consecutive top-eight fantasy campaign.",
-      "adp": 22.9,
+      "adp": 22.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -8279,7 +8279,7 @@
       },
       "sourceAdp": {
         "yahoo": 27.0,
-        "espn": 18.6,
+        "espn": 18.5,
         "sleeper": 23.0
       },
       "sourceBreakdown": {
@@ -8291,7 +8291,7 @@
         "espn": {
           "projection": 274.1,
           "projectedPpg": 16.13,
-          "adp": 18.6
+          "adp": 18.5
         },
         "sleeper": {
           "projection": 248.6,
@@ -8301,10 +8301,10 @@
         "master": {
           "projection": 274.5,
           "projectedPpg": 16.15,
-          "adp": 22.9
+          "adp": 22.8
         }
       },
-      "espnAdp": 18.6,
+      "espnAdp": 18.5,
       "espnProjection": 274.1,
       "espnProjectedPpg": 16.13,
       "sleeperAdp": 23.0,
@@ -8333,7 +8333,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -5.1
+        "value": -5.2
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3043078.png",
       "stats": {
@@ -8597,7 +8597,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Allen enters his age-30 campaign having finished each of the past six seasons no worse than second among quarterbacks in fantasy points. Despite seeing less passing volume the past two seasons (14th or lower in pass attempts both years), the 2024 NFL MVP has finished in the top 10 in passing TDs six seasons in a row and remains a major threat with his legs (top five in carries and rushing TDs among quarterbacks all eight seasons of his career). Allen's 21.4 fantasy points per game in 2025 was actually his lowest since 2019, but it was still enough to lead the position. With Joe Brady returning as playcaller and the Bills adding a No. 1 receiver in DJ Moore, Allen remains an elite fantasy quarterback.",
-      "adp": 23.8,
+      "adp": 23.9,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -8616,7 +8616,7 @@
       },
       "sourceAdp": {
         "yahoo": 23.0,
-        "espn": 23.5,
+        "espn": 23.6,
         "sleeper": 25.0
       },
       "sourceBreakdown": {
@@ -8628,7 +8628,7 @@
         "espn": {
           "projection": 369.3,
           "projectedPpg": 21.72,
-          "adp": 23.5
+          "adp": 23.6
         },
         "sleeper": {
           "projection": 402.9,
@@ -8638,10 +8638,10 @@
         "master": {
           "projection": 399.2,
           "projectedPpg": 23.48,
-          "adp": 23.8
+          "adp": 23.9
         }
       },
-      "espnAdp": 23.5,
+      "espnAdp": 23.6,
       "espnProjection": 369.3,
       "espnProjectedPpg": 21.72,
       "sleeperAdp": 25.0,
@@ -8670,7 +8670,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -5.2
+        "value": -5.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
       "stats": {
@@ -8934,7 +8934,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Hall received the franchise tag during the offseason and will return for his fifth season with the Jets. Having worked in the Jets' underwhelming offenses the past two years, Hall has struggled to finishes of 17th and 21st in fantasy points per game among RBs, which is a far cry from top-eight finishes during his first two seasons. Hall has remained busy, however, producing 266-plus touches each of the past three seasons. The 2022 second-round pick saw a dip in receiving work in 2025 (career-low 10% target share) but finished fourth in that category in both 2023 and 2024, so a rebound is possible with pocket QB Geno Smith now under center. Though the Jets' offense might continue to limit Hall's upside, the 25-year-old's combination of workload and talent positions him as a solid RB2.",
-      "adp": 35.1,
+      "adp": 35.2,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -8953,7 +8953,7 @@
       },
       "sourceAdp": {
         "yahoo": 39.0,
-        "espn": 33.9,
+        "espn": 34.0,
         "sleeper": 32.5
       },
       "sourceBreakdown": {
@@ -8965,7 +8965,7 @@
         "espn": {
           "projection": 273.0,
           "projectedPpg": 16.06,
-          "adp": 33.9
+          "adp": 34.0
         },
         "sleeper": {
           "projection": 232.1,
@@ -8975,10 +8975,10 @@
         "master": {
           "projection": 257.0,
           "projectedPpg": 15.12,
-          "adp": 35.1
+          "adp": 35.2
         }
       },
-      "espnAdp": 33.9,
+      "espnAdp": 34.0,
       "espnProjection": 273.0,
       "espnProjectedPpg": 16.06,
       "sleeperAdp": 32.5,
@@ -9007,7 +9007,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 5.1
+        "value": 5.2
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4427366.png",
       "stats": {
@@ -9277,7 +9277,7 @@
       },
       "sourceAdp": {
         "yahoo": 34.0,
-        "espn": 50.4,
+        "espn": 50.5,
         "sleeper": 14.0
       },
       "sourceBreakdown": {
@@ -9289,7 +9289,7 @@
         "espn": {
           "projection": 218.4,
           "projectedPpg": 12.85,
-          "adp": 50.4
+          "adp": 50.5
         },
         "sleeper": {
           "projection": 252.4,
@@ -9302,7 +9302,7 @@
           "adp": 32.8
         }
       },
-      "espnAdp": 50.4,
+      "espnAdp": 50.5,
       "espnProjection": 218.4,
       "espnProjectedPpg": 12.85,
       "sleeperAdp": 14.0,
@@ -9588,7 +9588,7 @@
       },
       "sourceAdp": {
         "yahoo": 30.0,
-        "espn": 26.7,
+        "espn": 26.8,
         "sleeper": 28.5
       },
       "sourceBreakdown": {
@@ -9600,7 +9600,7 @@
         "espn": {
           "projection": 273.5,
           "projectedPpg": 16.09,
-          "adp": 26.7
+          "adp": 26.8
         },
         "sleeper": {
           "projection": 238.3,
@@ -9613,7 +9613,7 @@
           "adp": 28.4
         }
       },
-      "espnAdp": 26.7,
+      "espnAdp": 26.8,
       "espnProjection": 273.5,
       "espnProjectedPpg": 16.09,
       "sleeperAdp": 28.5,
@@ -9880,7 +9880,7 @@
         "sleeper"
       ],
       "seasonOutlook": "The reigning NFL Offensive Rookie of the Year, McMillan is a candidate to make the leap into the \"elite\" conversation at wide receiver this season. The 2025 eighth overall pick was very busy as a rookie (top 15 among WRs in snaps, routes, target share, targets, yards, end zone targets and touchdowns) and, while he finished 16th among receivers in fantasy points (22nd PPG), he lacked upside, producing only one top-10 outing (Week 9). Improving on a 56% catch rate will be key in Year 2, though that would require improvement from Bryce Young. McMillan, 23, remains positioned as Carolina's clear top target and, though Young's limitations may cap his ceiling a bit, McMillan's talent/usage combo supplies him with top-10 upside. He's safest as a midrange fantasy WR2.",
-      "adp": 34.7,
+      "adp": 34.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -9899,7 +9899,7 @@
       },
       "sourceAdp": {
         "yahoo": 32.0,
-        "espn": 41.6,
+        "espn": 41.8,
         "sleeper": 30.5
       },
       "sourceBreakdown": {
@@ -9911,7 +9911,7 @@
         "espn": {
           "projection": 238.6,
           "projectedPpg": 14.04,
-          "adp": 41.6
+          "adp": 41.8
         },
         "sleeper": {
           "projection": 222.4,
@@ -9921,10 +9921,10 @@
         "master": {
           "projection": 234.8,
           "projectedPpg": 13.81,
-          "adp": 34.7
+          "adp": 34.8
         }
       },
-      "espnAdp": 41.6,
+      "espnAdp": 41.8,
       "espnProjection": 238.6,
       "espnProjectedPpg": 14.04,
       "sleeperAdp": 30.5,
@@ -9953,7 +9953,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 1.7
+        "value": 1.8
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685472.png",
       "stats": {
@@ -11117,7 +11117,7 @@
       },
       "sourceAdp": {
         "yahoo": 41.0,
-        "espn": 37.8,
+        "espn": 37.9,
         "sleeper": 34.5
       },
       "sourceBreakdown": {
@@ -11129,7 +11129,7 @@
         "espn": {
           "projection": 258.8,
           "projectedPpg": 15.23,
-          "adp": 37.8
+          "adp": 37.9
         },
         "sleeper": {
           "projection": 227.2,
@@ -11142,7 +11142,7 @@
           "adp": 37.8
         }
       },
-      "espnAdp": 37.8,
+      "espnAdp": 37.9,
       "espnProjection": 258.8,
       "espnProjectedPpg": 15.23,
       "sleeperAdp": 34.5,
@@ -11759,7 +11759,7 @@
         "sleeper"
       ],
       "seasonOutlook": "McConkey is looking to rebound after falling short of high expectations in 2025. The 2024 second-round pick was terrific as a rookie (82-1,155-7 receiving line and a 12th-place finish among WRs in fantasy points), but dipped to 66-789-6 line and a 30th-place finish last season. Though he ran considerably more routes, saw similar target numbers and was used a lot more near the goal line (seventh among WRs with 12 end zone targets), McConkey's efficiency plummeted, with his catch rate dipping from 74% to 62% and his yards per target from 10.4 to 7.4. The good news is that there's reason for optimism that he'll bounce back, as he has a new playcaller in Mike McDaniel, the Chargers' offense figures to improve with a much healthier line, and Keenan Allen is out of the picture. McConkey, 24, makes for a fine fantasy WR3.",
-      "adp": 55.5,
+      "adp": 55.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -11778,7 +11778,7 @@
       },
       "sourceAdp": {
         "yahoo": 40.0,
-        "espn": 58.6,
+        "espn": 58.7,
         "sleeper": 68.0
       },
       "sourceBreakdown": {
@@ -11790,7 +11790,7 @@
         "espn": {
           "projection": 220.0,
           "projectedPpg": 12.94,
-          "adp": 58.6
+          "adp": 58.7
         },
         "sleeper": {
           "projection": 185.7,
@@ -11800,10 +11800,10 @@
         "master": {
           "projection": 210.0,
           "projectedPpg": 12.35,
-          "adp": 55.5
+          "adp": 55.6
         }
       },
-      "espnAdp": 58.6,
+      "espnAdp": 58.7,
       "espnProjection": 220.0,
       "espnProjectedPpg": 12.94,
       "sleeperAdp": 68.0,
@@ -11832,7 +11832,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 16.5
+        "value": 16.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4612826.png",
       "stats": {
@@ -13369,7 +13369,7 @@
       },
       "sourceAdp": {
         "yahoo": 45.0,
-        "espn": 61.0,
+        "espn": 60.9,
         "sleeper": 30.0
       },
       "sourceBreakdown": {
@@ -13381,7 +13381,7 @@
         "espn": {
           "projection": 212.9,
           "projectedPpg": 12.52,
-          "adp": 61.0
+          "adp": 60.9
         },
         "sleeper": {
           "projection": 224.1,
@@ -13394,7 +13394,7 @@
           "adp": 45.3
         }
       },
-      "espnAdp": 61.0,
+      "espnAdp": 60.9,
       "espnProjection": 212.9,
       "espnProjectedPpg": 12.52,
       "sleeperAdp": 30.0,
@@ -13674,7 +13674,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Egbuka is a fascinating evaluation following a rookie season that couldn't have started much better (five TDs and 20.5 fantasy PPG during his first five games), but that fell apart from there (one TD and 7.8 PPG during his final 12 games). By season's end, Egbuka sat in the top 10 in targets and air yards, but a horrific 49% catch rate led to a 34th-place finish in fantasy PPG. The good news is that, with Mike Evans out of the picture and Chris Godwin now 30 years old, Egbuka has a shot to emerge as Baker Mayfield's No. 1 target. The 2025 first-round pick is a strong bet for a leap forward and should be viewed as a WR2 with the potential for a full-on breakout.",
-      "adp": 48.6,
+      "adp": 48.5,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -13693,7 +13693,7 @@
       },
       "sourceAdp": {
         "yahoo": 51.0,
-        "espn": 49.7,
+        "espn": 49.6,
         "sleeper": 45.0
       },
       "sourceBreakdown": {
@@ -13705,7 +13705,7 @@
         "espn": {
           "projection": 228.9,
           "projectedPpg": 13.47,
-          "adp": 49.7
+          "adp": 49.6
         },
         "sleeper": {
           "projection": 200.5,
@@ -13715,10 +13715,10 @@
         "master": {
           "projection": 221.5,
           "projectedPpg": 13.03,
-          "adp": 48.6
+          "adp": 48.5
         }
       },
-      "espnAdp": 49.7,
+      "espnAdp": 49.6,
       "espnProjection": 228.9,
       "espnProjectedPpg": 13.47,
       "sleeperAdp": 45.0,
@@ -13747,7 +13747,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 3.6
+        "value": 3.5
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4567750.png",
       "stats": {
@@ -14011,7 +14011,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Irving enters his third season coming off a disappointing 2025 campaign in which he missed seven games and struggled with efficiency. After averaging 5.42 yards per carry and producing 1,514 yards and eight touchdowns as a rookie, Irving fell to 3.40 YPC (fourth worst among qualified RBs), 865 yards and four touchdowns in 2025. He failed to clear 4.2 YPC in any of his 10 outings. The 24-year-old remains positioned as the lead back in Tampa Bay, but the combination of his small frame (5-foot-9, 192 pounds) and the arrival of Kenneth Gainwell suggest he might play a lesser role moving forward. Irving should be valued as a back-end RB2.",
-      "adp": 54.0,
+      "adp": 54.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -14030,7 +14030,7 @@
       },
       "sourceAdp": {
         "yahoo": 47.0,
-        "espn": 54.5,
+        "espn": 54.8,
         "sleeper": 60.5
       },
       "sourceBreakdown": {
@@ -14042,7 +14042,7 @@
         "espn": {
           "projection": 216.6,
           "projectedPpg": 12.74,
-          "adp": 54.5
+          "adp": 54.8
         },
         "sleeper": {
           "projection": 201.1,
@@ -14052,10 +14052,10 @@
         "master": {
           "projection": 225.0,
           "projectedPpg": 13.23,
-          "adp": 54.0
+          "adp": 54.1
         }
       },
-      "espnAdp": 54.5,
+      "espnAdp": 54.8,
       "espnProjection": 216.6,
       "espnProjectedPpg": 12.74,
       "sleeperAdp": 60.5,
@@ -14084,7 +14084,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 8.0
+        "value": 8.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4596448.png",
       "stats": {
@@ -14257,7 +14257,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Adams' first season in Los Angeles was a success, as the veteran led the wide receiver position in touchdowns for the third time in the past six seasons. His 27 end zone targets were nine more than any other player and he now sits second in that category (148) and in TDs from scrimmage (117) since entering the league in 2014. Adams' ninth-place finish in fantasy PPG marked his ninth top-10 in his past 10 seasons. Now 33 years old, he isn't targeted as much as in years past (24% target share in 2025 was his lowest since 2016), but he's the clear No. 2 behind Puka Nacua in the Rams' elite, Matthew Stafford-led offense. Adams' heavy usage near the goal line helps cement him as a fine fantasy WR2.",
-      "adp": 45.8,
+      "adp": 45.9,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -14276,7 +14276,7 @@
       },
       "sourceAdp": {
         "yahoo": 44.0,
-        "espn": 45.4,
+        "espn": 45.6,
         "sleeper": 48.0
       },
       "sourceBreakdown": {
@@ -14288,7 +14288,7 @@
         "espn": {
           "projection": 232.5,
           "projectedPpg": 13.68,
-          "adp": 45.4
+          "adp": 45.6
         },
         "sleeper": {
           "projection": 196.9,
@@ -14298,10 +14298,10 @@
         "master": {
           "projection": 220.1,
           "projectedPpg": 12.95,
-          "adp": 45.8
+          "adp": 45.9
         }
       },
-      "espnAdp": 45.4,
+      "espnAdp": 45.6,
       "espnProjection": 232.5,
       "espnProjectedPpg": 13.68,
       "sleeperAdp": 48.0,
@@ -14330,7 +14330,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -1.2
+        "value": -1.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/16800.png",
       "stats": {
@@ -14574,7 +14574,7 @@
       },
       "sourceAdp": {
         "yahoo": 50.0,
-        "espn": 42.8,
+        "espn": 42.9,
         "sleeper": 68.0
       },
       "sourceBreakdown": {
@@ -14586,7 +14586,7 @@
         "espn": {
           "projection": 242.0,
           "projectedPpg": 14.24,
-          "adp": 42.8
+          "adp": 42.9
         },
         "sleeper": {
           "projection": 198.2,
@@ -14599,7 +14599,7 @@
           "adp": 53.6
         }
       },
-      "espnAdp": 42.8,
+      "espnAdp": 42.9,
       "espnProjection": 242.0,
       "espnProjectedPpg": 14.24,
       "sleeperAdp": 68.0,
@@ -14774,7 +14774,7 @@
         "sleeper"
       ],
       "seasonOutlook": "McLaurin is eyeing a bounce-back campaign following a lost 2025 season in which both he (seven missed games) and quarterback Jayden Daniels (10 missed games) were sidelined for extended periods. The dud season came after Daniels helped McLaurin to a career year in 2024, which included 13 touchdowns (second most among WRs) and a seventh-place finish in fantasy points. McLaurin's target ceiling remains a concern (he's been in the 21-25% target share range each of his seven seasons), but with his quarterback healthy and his role as a vertical threat in new playcaller David Blough's offense, McLaurin is certainly poised for a rebound. The 30-year-old is best valued as a mid-to-back-end WR2.",
-      "adp": 48.9,
+      "adp": 49.0,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -14793,7 +14793,7 @@
       },
       "sourceAdp": {
         "yahoo": 48.0,
-        "espn": 53.8,
+        "espn": 53.9,
         "sleeper": 45.0
       },
       "sourceBreakdown": {
@@ -14805,7 +14805,7 @@
         "espn": {
           "projection": 219.2,
           "projectedPpg": 12.89,
-          "adp": 53.8
+          "adp": 53.9
         },
         "sleeper": {
           "projection": 200.1,
@@ -14815,10 +14815,10 @@
         "master": {
           "projection": 222.9,
           "projectedPpg": 13.11,
-          "adp": 48.9
+          "adp": 49.0
         }
       },
-      "espnAdp": 53.8,
+      "espnAdp": 53.9,
       "espnProjection": 219.2,
       "espnProjectedPpg": 12.89,
       "sleeperAdp": 45.0,
@@ -14847,7 +14847,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -0.1
+        "value": 0.0
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3121422.png",
       "stats": {
@@ -15020,7 +15020,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Henderson enters Year 2 after a roller-coaster rookie campaign in which he delivered three huge fantasy performances (28-plus points in all three) but otherwise played second fiddle to Rhamondre Stevenson (8.3 points per game in his other 14 games). Though his role was limited, Henderson was effective, averaging 5.1 yards per carry (eighth best) and catching 83% of his targets while scoring 10 touchdowns. The 2025 second-round pick is a candidate for a larger role in 2026, but it's unlikely that Stevenson will completely disappear after he also had a strong 2025. Henderson is safest as a flex option, but there's upside for a lot more if the 23-year-old is promoted to a lead role.",
-      "adp": 60.6,
+      "adp": 60.7,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -15039,7 +15039,7 @@
       },
       "sourceAdp": {
         "yahoo": 56.0,
-        "espn": 60.4,
+        "espn": 60.6,
         "sleeper": 65.5
       },
       "sourceBreakdown": {
@@ -15051,7 +15051,7 @@
         "espn": {
           "projection": 208.2,
           "projectedPpg": 12.25,
-          "adp": 60.4
+          "adp": 60.6
         },
         "sleeper": {
           "projection": 200.1,
@@ -15061,10 +15061,10 @@
         "master": {
           "projection": 217.3,
           "projectedPpg": 12.78,
-          "adp": 60.6
+          "adp": 60.7
         }
       },
-      "espnAdp": 60.4,
+      "espnAdp": 60.6,
       "espnProjection": 208.2,
       "espnProjectedPpg": 12.25,
       "sleeperAdp": 65.5,
@@ -15093,7 +15093,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 10.6
+        "value": 10.7
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4432710.png",
       "stats": {
@@ -15376,7 +15376,7 @@
       },
       "sourceAdp": {
         "yahoo": 43.0,
-        "espn": 50.1,
+        "espn": 50.0,
         "sleeper": 83.0
       },
       "sourceBreakdown": {
@@ -15388,7 +15388,7 @@
         "espn": {
           "projection": 319.0,
           "projectedPpg": 18.77,
-          "adp": 50.1
+          "adp": 50.0
         },
         "sleeper": {
           "projection": 346.6,
@@ -15401,7 +15401,7 @@
           "adp": 58.7
         }
       },
-      "espnAdp": 50.1,
+      "espnAdp": 50.0,
       "espnProjection": 319.0,
       "espnProjectedPpg": 18.77,
       "sleeperAdp": 83.0,
@@ -16270,7 +16270,7 @@
       },
       "sourceAdp": {
         "yahoo": 49.0,
-        "espn": 56.5,
+        "espn": 56.6,
         "sleeper": 25.0
       },
       "sourceBreakdown": {
@@ -16282,7 +16282,7 @@
         "espn": {
           "projection": 304.0,
           "projectedPpg": 17.88,
-          "adp": 56.5
+          "adp": 56.6
         },
         "sleeper": {
           "projection": 401.6,
@@ -16295,7 +16295,7 @@
           "adp": 43.5
         }
       },
-      "espnAdp": 56.5,
+      "espnAdp": 56.6,
       "espnProjection": 304.0,
       "espnProjectedPpg": 17.88,
       "sleeperAdp": 25.0,
@@ -16490,7 +16490,7 @@
       },
       "sourceAdp": {
         "yahoo": 54.0,
-        "espn": 69.6,
+        "espn": 69.7,
         "sleeper": 82.5
       },
       "sourceBreakdown": {
@@ -16502,7 +16502,7 @@
         "espn": {
           "projection": 211.7,
           "projectedPpg": 12.45,
-          "adp": 69.6
+          "adp": 69.7
         },
         "sleeper": {
           "projection": 188.2,
@@ -16515,7 +16515,7 @@
           "adp": 68.7
         }
       },
-      "espnAdp": 69.6,
+      "espnAdp": 69.7,
       "espnProjection": 211.7,
       "espnProjectedPpg": 12.45,
       "sleeperAdp": 82.5,
@@ -16795,7 +16795,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Moore was traded to Buffalo after spending his first eight NFL seasons with Carolina and Chicago. A featured target throughout most of his career, Moore was reduced to a 16% target share in 2025 -- his lowest since his rookie year in 2018. The result was a 35th-place finish in fantasy points, which ended a streak of six consecutive top 25s. Moore now heads to Buffalo with Khalil Shakir as his only roadblock to emerging as Josh Allen's No. 1 target in Buffalo's high-scoring offense. Still in his prime at age 29, Moore has the look of a fantasy WR3 with upside for more.",
-      "adp": 67.0,
+      "adp": 67.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -16814,7 +16814,7 @@
       },
       "sourceAdp": {
         "yahoo": 55.0,
-        "espn": 67.5,
+        "espn": 67.7,
         "sleeper": 78.5
       },
       "sourceBreakdown": {
@@ -16826,7 +16826,7 @@
         "espn": {
           "projection": 209.8,
           "projectedPpg": 12.34,
-          "adp": 67.5
+          "adp": 67.7
         },
         "sleeper": {
           "projection": 180.0,
@@ -16836,10 +16836,10 @@
         "master": {
           "projection": 200.9,
           "projectedPpg": 11.82,
-          "adp": 67.0
+          "adp": 67.1
         }
       },
-      "espnAdp": 67.5,
+      "espnAdp": 67.7,
       "espnProjection": 209.8,
       "espnProjectedPpg": 12.34,
       "sleeperAdp": 78.5,
@@ -16868,7 +16868,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 11.0
+        "value": 11.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png",
       "stats": {
@@ -17132,7 +17132,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Judkins is entering his second NFL season after a roller-coaster rookie campaign in which a solid 14-game stretch of action was bookended by missed time early because of an off-field issue and late because of a season-ending leg injury in Week 16. When on the field, Judkins handled a massive 71.4% share of Cleveland's designed rush attempts (16.4 per game). Though he was held to 3.6 yards per carry, he was dealing with a league-high 7.4 box defenders per attempt. He wasn't involved much as a receiver (2.6 targets per game), however, and was limited to 12.1 fantasy points per game (26th among RBs). The Cleveland offense has a new coach (Todd Monken) and quarterback questions remain, so while Judkins has a clear path to a big carry total, the 22-year-old might cap out as a midrange RB2 in 2026.",
-      "adp": 58.8,
+      "adp": 58.9,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -17151,7 +17151,7 @@
       },
       "sourceAdp": {
         "yahoo": 60.0,
-        "espn": 57.0,
+        "espn": 57.1,
         "sleeper": 59.5
       },
       "sourceBreakdown": {
@@ -17163,7 +17163,7 @@
         "espn": {
           "projection": 225.0,
           "projectedPpg": 13.23,
-          "adp": 57.0
+          "adp": 57.1
         },
         "sleeper": {
           "projection": 202.9,
@@ -17173,10 +17173,10 @@
         "master": {
           "projection": 220.4,
           "projectedPpg": 12.96,
-          "adp": 58.8
+          "adp": 58.9
         }
       },
-      "espnAdp": 57.0,
+      "espnAdp": 57.1,
       "espnProjection": 225.0,
       "espnProjectedPpg": 13.23,
       "sleeperAdp": 59.5,
@@ -17205,7 +17205,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 1.8
+        "value": 1.9
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685702.png",
       "stats": {
@@ -18123,7 +18123,7 @@
       },
       "sourceAdp": {
         "yahoo": 67.0,
-        "espn": 60.3,
+        "espn": 60.4,
         "sleeper": 53.5
       },
       "sourceBreakdown": {
@@ -18135,7 +18135,7 @@
         "espn": {
           "projection": 211.2,
           "projectedPpg": 12.42,
-          "adp": 60.3
+          "adp": 60.4
         },
         "sleeper": {
           "projection": 194.5,
@@ -18148,7 +18148,7 @@
           "adp": 60.3
         }
       },
-      "espnAdp": 60.3,
+      "espnAdp": 60.4,
       "espnProjection": 211.2,
       "espnProjectedPpg": 12.42,
       "sleeperAdp": 53.5,
@@ -18238,7 +18238,7 @@
       },
       "sourceAdp": {
         "yahoo": 53.0,
-        "espn": 53.0,
+        "espn": 53.1,
         "sleeper": 81.5
       },
       "sourceBreakdown": {
@@ -18250,7 +18250,7 @@
         "espn": {
           "projection": 318.5,
           "projectedPpg": 18.73,
-          "adp": 53.0
+          "adp": 53.1
         },
         "sleeper": {
           "projection": 347.2,
@@ -18263,7 +18263,7 @@
           "adp": 62.5
         }
       },
-      "espnAdp": 53.0,
+      "espnAdp": 53.1,
       "espnProjection": 318.5,
       "espnProjectedPpg": 18.73,
       "sleeperAdp": 81.5,
@@ -19002,7 +19002,7 @@
       },
       "sourceAdp": {
         "yahoo": 58.0,
-        "espn": 74.9,
+        "espn": 75.0,
         "sleeper": 41.0
       },
       "sourceBreakdown": {
@@ -19014,7 +19014,7 @@
         "espn": {
           "projection": 212.6,
           "projectedPpg": 12.51,
-          "adp": 74.9
+          "adp": 75.0
         },
         "sleeper": {
           "projection": 205.6,
@@ -19027,7 +19027,7 @@
           "adp": 58.0
         }
       },
-      "espnAdp": 74.9,
+      "espnAdp": 75.0,
       "espnProjection": 212.6,
       "espnProjectedPpg": 12.51,
       "sleeperAdp": 41.0,
@@ -19255,7 +19255,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Hurts enters his seventh NFL season and sixth as the starter in Philadelphia. The 28-year-old tossed a career-high 25 touchdowns last season, but his rushing production was way down (105-421-8 after delivering at least 139 carries, 605 yards and 10 TDs in each of the prior four seasons). Hurts' fantasy production dipped, as his 18.7 points per game was his lowest as a starter and ranked eighth at the position after three straight top-five campaigns. Hurts' supporting cast remains strong (even without A.J. Brown), and new playcaller Sean Mannion very well could add some juice back to the offense. Hurts' fantasy stock is down a bit from years past, but his dual-threat ability locks him in as a midrange QB1.",
-      "adp": 55.8,
+      "adp": 55.7,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -19274,7 +19274,7 @@
       },
       "sourceAdp": {
         "yahoo": 62.0,
-        "espn": 59.4,
+        "espn": 59.2,
         "sleeper": 46.0
       },
       "sourceBreakdown": {
@@ -19286,7 +19286,7 @@
         "espn": {
           "projection": 320.3,
           "projectedPpg": 18.84,
-          "adp": 59.4
+          "adp": 59.2
         },
         "sleeper": {
           "projection": 368.6,
@@ -19296,10 +19296,10 @@
         "master": {
           "projection": 351.5,
           "projectedPpg": 20.68,
-          "adp": 55.8
+          "adp": 55.7
         }
       },
-      "espnAdp": 59.4,
+      "espnAdp": 59.2,
       "espnProjection": 320.3,
       "espnProjectedPpg": 18.84,
       "sleeperAdp": 46.0,
@@ -19328,7 +19328,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -9.2
+        "value": -9.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4040715.png",
       "stats": {
@@ -19598,7 +19598,7 @@
       },
       "sourceAdp": {
         "yahoo": 72.0,
-        "espn": 93.5,
+        "espn": 93.6,
         "sleeper": 46.0
       },
       "sourceBreakdown": {
@@ -19610,7 +19610,7 @@
         "espn": {
           "projection": 190.9,
           "projectedPpg": 11.23,
-          "adp": 93.5
+          "adp": 93.6
         },
         "sleeper": {
           "projection": 211.1,
@@ -19623,7 +19623,7 @@
           "adp": 70.5
         }
       },
-      "espnAdp": 93.5,
+      "espnAdp": 93.6,
       "espnProjection": 190.9,
       "espnProjectedPpg": 11.23,
       "sleeperAdp": 46.0,
@@ -20037,7 +20037,7 @@
       },
       "sourceAdp": {
         "yahoo": 71.0,
-        "espn": 80.8,
+        "espn": 80.7,
         "sleeper": 58.0
       },
       "sourceBreakdown": {
@@ -20049,7 +20049,7 @@
         "espn": {
           "projection": 194.0,
           "projectedPpg": 11.41,
-          "adp": 80.8
+          "adp": 80.7
         },
         "sleeper": {
           "projection": 191.2,
@@ -20062,7 +20062,7 @@
           "adp": 69.9
         }
       },
-      "espnAdp": 80.8,
+      "espnAdp": 80.7,
       "espnProjection": 194.0,
       "espnProjectedPpg": 11.41,
       "sleeperAdp": 58.0,
@@ -20290,7 +20290,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Kraft's steady career progression had him on the cusp of a full-on breakout last season, but all was derailed by a torn ACL in Week 9. Prior to the injury, Kraft had seen 10 targets in consecutive games, one of which included a career-high 33.3 fantasy points. Through Week 8, only Jake Ferguson had more fantasy points. Granted, Kraft was way over his head in the TD department (six TDs with an expected total of 1.8 and only two end zone targets), but his boost in usage and terrific RAC skills (he has led the position in the category each of his three seasons) were enough to get him into the weekly TE1 mix. Kraft's recovery will need to be monitored, but even if he's ready for Week 1, a dip in production is possible in his first year back from the major injury. He's a risky middle-round target.",
-      "adp": 84.5,
+      "adp": 84.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -20309,7 +20309,7 @@
       },
       "sourceAdp": {
         "yahoo": 64.0,
-        "espn": 108.1,
+        "espn": 108.2,
         "sleeper": 81.5
       },
       "sourceBreakdown": {
@@ -20321,7 +20321,7 @@
         "espn": {
           "projection": 162.1,
           "projectedPpg": 9.54,
-          "adp": 108.1
+          "adp": 108.2
         },
         "sleeper": {
           "projection": 170.0,
@@ -20331,10 +20331,10 @@
         "master": {
           "projection": 178.7,
           "projectedPpg": 10.51,
-          "adp": 84.5
+          "adp": 84.6
         }
       },
-      "espnAdp": 108.1,
+      "espnAdp": 108.2,
       "espnProjection": 162.1,
       "espnProjectedPpg": 9.54,
       "sleeperAdp": 81.5,
@@ -20363,7 +20363,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 15.5
+        "value": 15.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4572680.png",
       "stats": {
@@ -20510,7 +20510,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Thomas is one of the biggest wild cards in fantasy after a roller-coaster start to his career. The 2024 first-round pick was fantasy's No. 4-scoring wide receiver as a rookie, but only played at that WR1 level with Mac Jones under center. Thomas averaged 5.8 targets and 14.4 fantasy PPG with Trevor Lawrence under center that season, and was even worse with Lawrence in 2025 (6.2 targets, 9.9 PPG). With Jakobi Meyers, Parker Washington and Travis Hunter in the mix, Thomas was utilized as more of a vertical threat in 2025 (his 14.4 aDOT was fourth highest), which led to a big dip in catch rate and touchdowns, as well as more drops. The Jaguars offense is suddenly very crowded, so Thomas is more likely to be a boom/bust flex than he is the superstar we expected one year ago. The 23-year-old's raw talent makes him worth middle-round consideration.",
-      "adp": 96.2,
+      "adp": 96.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -20529,7 +20529,7 @@
       },
       "sourceAdp": {
         "yahoo": 91.0,
-        "espn": 101.6,
+        "espn": 101.8,
         "sleeper": 96.0
       },
       "sourceBreakdown": {
@@ -20541,7 +20541,7 @@
         "espn": {
           "projection": 176.4,
           "projectedPpg": 10.38,
-          "adp": 101.6
+          "adp": 101.8
         },
         "sleeper": {
           "projection": 169.4,
@@ -20551,10 +20551,10 @@
         "master": {
           "projection": 176.6,
           "projectedPpg": 10.39,
-          "adp": 96.2
+          "adp": 96.3
         }
       },
-      "espnAdp": 101.6,
+      "espnAdp": 101.8,
       "espnProjection": 176.4,
       "espnProjectedPpg": 10.38,
       "sleeperAdp": 96.0,
@@ -20583,7 +20583,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 26.2
+        "value": 26.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4432773.png",
       "stats": {
@@ -20808,7 +20808,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Williams enters his third NFL season after a solid rookie campaign in 2024 followed by a big leap forward in 2025. Williams finished last season no lower than 11th among QBs in pass attempts, completions, pass yards, passing TDs, carries, rush yards, rush TDs and fantasy points per game. While Williams' completion percentage was one of the worst in the league (58%), his dual-threat ability and turnover avoidance (seven INTs both seasons) has led to solid fantasy output. The 2024 No. 1 draft pick has a good supporting cast in playcaller Ben Johnson and a trio of young pass catchers in Rome Odunze, Luther Burden III and Colston Loveland. Williams is a fringe QB1 with upside for another leap.",
-      "adp": 89.7,
+      "adp": 89.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -20827,7 +20827,7 @@
       },
       "sourceAdp": {
         "yahoo": 76.0,
-        "espn": 100.5,
+        "espn": 100.4,
         "sleeper": 92.5
       },
       "sourceBreakdown": {
@@ -20839,7 +20839,7 @@
         "espn": {
           "projection": 281.7,
           "projectedPpg": 16.57,
-          "adp": 100.5
+          "adp": 100.4
         },
         "sleeper": {
           "projection": 342.4,
@@ -20849,10 +20849,10 @@
         "master": {
           "projection": 325.7,
           "projectedPpg": 19.16,
-          "adp": 89.7
+          "adp": 89.6
         }
       },
-      "espnAdp": 100.5,
+      "espnAdp": 100.4,
       "espnProjection": 281.7,
       "espnProjectedPpg": 16.57,
       "sleeperAdp": 92.5,
@@ -20881,7 +20881,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 18.7
+        "value": 18.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4431611.png",
       "stats": {
@@ -21812,7 +21812,7 @@
       },
       "sourceAdp": {
         "yahoo": 61.0,
-        "espn": 83.8,
+        "espn": 83.9,
         "sleeper": 59.5
       },
       "sourceBreakdown": {
@@ -21824,7 +21824,7 @@
         "espn": {
           "projection": 184.8,
           "projectedPpg": 10.87,
-          "adp": 83.8
+          "adp": 83.9
         },
         "sleeper": {
           "projection": 202.0,
@@ -21837,7 +21837,7 @@
           "adp": 68.1
         }
       },
-      "espnAdp": 83.8,
+      "espnAdp": 83.9,
       "espnProjection": 184.8,
       "espnProjectedPpg": 10.87,
       "sleeperAdp": 59.5,
@@ -22123,7 +22123,7 @@
       },
       "sourceAdp": {
         "yahoo": 83.0,
-        "espn": 109.4,
+        "espn": 109.5,
         "sleeper": 83.0
       },
       "sourceBreakdown": {
@@ -22135,7 +22135,7 @@
         "espn": {
           "projection": 190.8,
           "projectedPpg": 11.22,
-          "adp": 109.4
+          "adp": 109.5
         },
         "sleeper": {
           "projection": 191.1,
@@ -22148,7 +22148,7 @@
           "adp": 91.8
         }
       },
-      "espnAdp": 109.4,
+      "espnAdp": 109.5,
       "espnProjection": 190.8,
       "espnProjectedPpg": 11.22,
       "sleeperAdp": 83.0,
@@ -22421,7 +22421,7 @@
       },
       "sourceAdp": {
         "yahoo": 79.0,
-        "espn": 115.0,
+        "espn": 115.1,
         "sleeper": 118.0
       },
       "sourceBreakdown": {
@@ -22433,7 +22433,7 @@
         "espn": {
           "projection": 166.9,
           "projectedPpg": 9.81,
-          "adp": 115.0
+          "adp": 115.1
         },
         "sleeper": {
           "projection": 164.2,
@@ -22446,7 +22446,7 @@
           "adp": 104.0
         }
       },
-      "espnAdp": 115.0,
+      "espnAdp": 115.1,
       "espnProjection": 166.9,
       "espnProjectedPpg": 9.81,
       "sleeperAdp": 118.0,
@@ -23717,7 +23717,7 @@
       },
       "sourceAdp": {
         "yahoo": 88.0,
-        "espn": 91.6,
+        "espn": 91.7,
         "sleeper": 107.5
       },
       "sourceBreakdown": {
@@ -23729,7 +23729,7 @@
         "espn": {
           "projection": 189.6,
           "projectedPpg": 11.15,
-          "adp": 91.6
+          "adp": 91.7
         },
         "sleeper": {
           "projection": 173.0,
@@ -23742,7 +23742,7 @@
           "adp": 95.7
         }
       },
-      "espnAdp": 91.6,
+      "espnAdp": 91.7,
       "espnProjection": 189.6,
       "espnProjectedPpg": 11.15,
       "sleeperAdp": 107.5,
@@ -24054,7 +24054,7 @@
       },
       "sourceAdp": {
         "yahoo": 78.0,
-        "espn": 109.3,
+        "espn": 109.5,
         "sleeper": 134.5
       },
       "sourceBreakdown": {
@@ -24066,7 +24066,7 @@
         "espn": {
           "projection": 173.1,
           "projectedPpg": 10.18,
-          "adp": 109.3
+          "adp": 109.5
         },
         "sleeper": {
           "projection": 140.4,
@@ -24079,7 +24079,7 @@
           "adp": 107.3
         }
       },
-      "espnAdp": 109.3,
+      "espnAdp": 109.5,
       "espnProjection": 173.1,
       "espnProjectedPpg": 10.18,
       "sleeperAdp": 134.5,
@@ -24169,7 +24169,7 @@
       },
       "sourceAdp": {
         "yahoo": 77.0,
-        "espn": 118.3,
+        "espn": 118.4,
         "sleeper": 60.5
       },
       "sourceBreakdown": {
@@ -24181,7 +24181,7 @@
         "espn": {
           "projection": 167.3,
           "projectedPpg": 9.84,
-          "adp": 118.3
+          "adp": 118.4
         },
         "sleeper": {
           "projection": 190.1,
@@ -24194,7 +24194,7 @@
           "adp": 85.3
         }
       },
-      "espnAdp": 118.3,
+      "espnAdp": 118.4,
       "espnProjection": 167.3,
       "espnProjectedPpg": 9.84,
       "sleeperAdp": 60.5,
@@ -24487,7 +24487,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Right when it seemed like Pitts might never live up to the hype, the 2021 No. 4 pick put together the best season of his career. Pitts finished second among tight ends in routes, targets, catches, yards and fantasy points, setting career highs in all but the yardage category. He scored five touchdowns and has increased his total in that category (by exactly one) each season in the league. Pitts did a big chunk of his damage with Kirk Cousins under center (some with WR Drake London sidelined), which is notable as Tua Tagovailoa and Michael Penix Jr. are set to battle for the Atlanta QB job. There's some obvious risk here considering Pitts finished 17th or lower in PPG three straight seasons before 2025, but he nonetheless enters his age-25 season as a priority target in the Atlanta offense. Consider him a midrange TE1.",
-      "adp": 73.7,
+      "adp": 73.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -24506,7 +24506,7 @@
       },
       "sourceAdp": {
         "yahoo": 87.0,
-        "espn": 68.5,
+        "espn": 68.4,
         "sleeper": 65.5
       },
       "sourceBreakdown": {
@@ -24518,7 +24518,7 @@
         "espn": {
           "projection": 185.1,
           "projectedPpg": 10.89,
-          "adp": 68.5
+          "adp": 68.4
         },
         "sleeper": {
           "projection": 178.1,
@@ -24528,10 +24528,10 @@
         "master": {
           "projection": 187.8,
           "projectedPpg": 11.05,
-          "adp": 73.7
+          "adp": 73.6
         }
       },
-      "espnAdp": 68.5,
+      "espnAdp": 68.4,
       "espnProjection": 185.1,
       "espnProjectedPpg": 10.89,
       "sleeperAdp": 65.5,
@@ -24560,7 +24560,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -9.3
+        "value": -9.4
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4360248.png",
       "stats": {
@@ -24824,7 +24824,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Price was selected by the Seahawks with the No. 32 overall pick of April's draft. Price managed only 280 career carries while stuck behind Jeremiyah Love at Notre Dame, but he showed well, posting a 4.13 YAC (second best in this rookie class) and 3.6 forced missed tackle rate (third best). He wasn't a factor as a receiver, however, totaling 15 receptions in 41 games. Price has a path to an immediate feature role in Seattle's run-first offense, though he may eventually defer substantial work to Zach Charbonnet (ACL recovery). Value Price as a flex, though he should land on the weekly RB2 radar while Charbonnet is sidelined.",
-      "adp": 87.5,
+      "adp": 87.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -24843,7 +24843,7 @@
       },
       "sourceAdp": {
         "yahoo": 68.0,
-        "espn": 67.1,
+        "espn": 67.2,
         "sleeper": 127.5
       },
       "sourceBreakdown": {
@@ -24855,7 +24855,7 @@
         "espn": {
           "projection": 193.9,
           "projectedPpg": 11.4,
-          "adp": 67.1
+          "adp": 67.2
         },
         "sleeper": {
           "projection": 156.5,
@@ -24865,10 +24865,10 @@
         "master": {
           "projection": 191.4,
           "projectedPpg": 11.26,
-          "adp": 87.5
+          "adp": 87.6
         }
       },
-      "espnAdp": 67.1,
+      "espnAdp": 67.2,
       "espnProjection": 193.9,
       "espnProjectedPpg": 11.4,
       "sleeperAdp": 127.5,
@@ -24897,7 +24897,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 3.5
+        "value": 3.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685512.png",
       "stats": {
@@ -25256,7 +25256,7 @@
       },
       "sourceAdp": {
         "yahoo": 86.0,
-        "espn": 116.1,
+        "espn": 116.0,
         "sleeper": 83.5
       },
       "sourceBreakdown": {
@@ -25268,7 +25268,7 @@
         "espn": {
           "projection": 287.4,
           "projectedPpg": 16.91,
-          "adp": 116.1
+          "adp": 116.0
         },
         "sleeper": {
           "projection": 346.2,
@@ -25281,7 +25281,7 @@
           "adp": 95.2
         }
       },
-      "espnAdp": 116.1,
+      "espnAdp": 116.0,
       "espnProjection": 287.4,
       "espnProjectedPpg": 16.91,
       "sleeperAdp": 83.5,
@@ -25940,7 +25940,7 @@
       },
       "sourceAdp": {
         "yahoo": 84.0,
-        "espn": 75.2,
+        "espn": 75.1,
         "sleeper": 64.0
       },
       "sourceBreakdown": {
@@ -25952,7 +25952,7 @@
         "espn": {
           "projection": 188.7,
           "projectedPpg": 11.1,
-          "adp": 75.2
+          "adp": 75.1
         },
         "sleeper": {
           "projection": 179.2,
@@ -25965,7 +25965,7 @@
           "adp": 74.4
         }
       },
-      "espnAdp": 75.2,
+      "espnAdp": 75.1,
       "espnProjection": 188.7,
       "espnProjectedPpg": 11.1,
       "sleeperAdp": 64.0,
@@ -26491,7 +26491,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Monangai heads into his second NFL season following an impressive rookie campaign in which he quickly forced his way into a committee with D'Andre Swift. The 2025 seventh-round flier played 41% of Chicago's offensive snaps and averaged a healthy 4.6 yards per carry on 169 attempts. Monangai was limited to 7.7 fantasy PPG during the 16 weeks Swift also played, but he showed his insurance value with a 29-touch, 198-yard effort in the one game Swift was sidelined (Week 9). The 24-year-old could see a slight boost in usage this season, but that usage and production will be limited as long as Swift is also healthy.",
-      "adp": 107.5,
+      "adp": 107.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -26510,7 +26510,7 @@
       },
       "sourceAdp": {
         "yahoo": 92.0,
-        "espn": 116.6,
+        "espn": 116.7,
         "sleeper": 114.0
       },
       "sourceBreakdown": {
@@ -26522,7 +26522,7 @@
         "espn": {
           "projection": 176.2,
           "projectedPpg": 10.36,
-          "adp": 116.6
+          "adp": 116.7
         },
         "sleeper": {
           "projection": 166.0,
@@ -26532,10 +26532,10 @@
         "master": {
           "projection": 182.6,
           "projectedPpg": 10.74,
-          "adp": 107.5
+          "adp": 107.6
         }
       },
-      "espnAdp": 116.6,
+      "espnAdp": 116.7,
       "espnProjection": 176.2,
       "espnProjectedPpg": 10.36,
       "sleeperAdp": 114.0,
@@ -26564,7 +26564,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 17.5
+        "value": 17.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4608686.png",
       "stats": {
@@ -26828,7 +26828,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Godwin is on the comeback trail after injuries have limited him to 16 games during the past two seasons. In 2025, he appeared in nine games and reached 11 fantasy points only twice. It seems like a long time ago, Godwin was second among receivers in fantasy points in 2024 when he suffered a severe ankle injury. He wasn't nearly as effective when he was on the field last season, but he's now more than a full year recovered from the injury and has less target competition with Mike Evans no longer on the roster. Entering his age-30 season, Godwin's days as a fantasy WR1 may be over, but with Emeka Egbuka as his only competition to lead the team in targets, he certainly has a path to flex numbers.",
-      "adp": 92.8,
+      "adp": 92.9,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -26847,7 +26847,7 @@
       },
       "sourceAdp": {
         "yahoo": 85.0,
-        "espn": 104.5,
+        "espn": 104.6,
         "sleeper": 89.0
       },
       "sourceBreakdown": {
@@ -26859,7 +26859,7 @@
         "espn": {
           "projection": 157.3,
           "projectedPpg": 9.25,
-          "adp": 104.5
+          "adp": 104.6
         },
         "sleeper": {
           "projection": 172.9,
@@ -26869,10 +26869,10 @@
         "master": {
           "projection": 179.8,
           "projectedPpg": 10.57,
-          "adp": 92.8
+          "adp": 92.9
         }
       },
-      "espnAdp": 104.5,
+      "espnAdp": 104.6,
       "espnProjection": 157.3,
       "espnProjectedPpg": 9.25,
       "sleeperAdp": 89.0,
@@ -26901,7 +26901,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 1.8
+        "value": 1.9
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3116165.png",
       "stats": {
@@ -27648,7 +27648,7 @@
       },
       "sourceAdp": {
         "yahoo": 94.0,
-        "espn": 105.9,
+        "espn": 106.0,
         "sleeper": 79.0
       },
       "sourceBreakdown": {
@@ -27660,7 +27660,7 @@
         "espn": {
           "projection": 187.5,
           "projectedPpg": 11.03,
-          "adp": 105.9
+          "adp": 106.0
         },
         "sleeper": {
           "projection": 179.3,
@@ -27673,7 +27673,7 @@
           "adp": 93.0
         }
       },
-      "espnAdp": 105.9,
+      "espnAdp": 106.0,
       "espnProjection": 187.5,
       "espnProjectedPpg": 11.03,
       "sleeperAdp": 79.0,
@@ -27953,7 +27953,7 @@
         "sleeper"
       ],
       "seasonOutlook": "One of the league's most underrated players, Meyers is entering his first full season with Jacksonville after being acquired via trade in November. The 2019 UDFA has produced 800-plus receiving yards in five consecutive seasons while operating primarily as a short-to-intermediate target. More of a solid producer than a high-ceiling contributor, Meyers has finished no lower than 32nd in fantasy points over the last five seasons, but has yet to do better than 19th. The 29-year-old isn't much of a touchdown scorer (23 TDs in 78 games since 2021) and has substantial target competition via Parker Washington, Brian Thomas Jr., Brenton Strange and Travis Hunter. Meyers is a good player, but is likely to cap out as a flex option.",
-      "adp": 103.0,
+      "adp": 103.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -27972,7 +27972,7 @@
       },
       "sourceAdp": {
         "yahoo": 98.0,
-        "espn": 106.6,
+        "espn": 106.7,
         "sleeper": 104.5
       },
       "sourceBreakdown": {
@@ -27984,7 +27984,7 @@
         "espn": {
           "projection": 181.7,
           "projectedPpg": 10.69,
-          "adp": 106.6
+          "adp": 106.7
         },
         "sleeper": {
           "projection": 163.8,
@@ -27994,10 +27994,10 @@
         "master": {
           "projection": 174.9,
           "projectedPpg": 10.29,
-          "adp": 103.0
+          "adp": 103.1
         }
       },
-      "espnAdp": 106.6,
+      "espnAdp": 106.7,
       "espnProjection": 181.7,
       "espnProjectedPpg": 10.69,
       "sleeperAdp": 104.5,
@@ -28026,7 +28026,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 8.0
+        "value": 8.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3916433.png",
       "stats": {
@@ -28575,7 +28575,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Dobbins re-signed with Denver and will attempt to fend off sophomore RJ Harvey for the team's lead-back job. With both active during Weeks 1-10 last season (10 games), Dobbins handled 153 carries (60% team share) and 15 targets (4%), compared to 50 carries (20%) and 29 targets (9%) for Harvey. Dobbins ran well (5.05 yards per carry) when healthy, but he was limited to four touchdowns and was a nonfactor as a receiver (37 yards on 15 targets) en route to averaging 11.6 fantasy points (27th). Dobbins enters his age-27 campaign having yet to play a full season in his career (seven-plus missed games in four of the past five years) and without much value even when active (he has never produced a top-20 fantasy campaign). Dobbins is an underwhelming flex option with added value in non-PPR formats.",
-      "adp": 110.2,
+      "adp": 110.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -28594,7 +28594,7 @@
       },
       "sourceAdp": {
         "yahoo": 95.0,
-        "espn": 107.0,
+        "espn": 106.9,
         "sleeper": 128.5
       },
       "sourceBreakdown": {
@@ -28606,7 +28606,7 @@
         "espn": {
           "projection": 171.4,
           "projectedPpg": 10.08,
-          "adp": 107.0
+          "adp": 106.9
         },
         "sleeper": {
           "projection": 157.5,
@@ -28616,10 +28616,10 @@
         "master": {
           "projection": 173.2,
           "projectedPpg": 10.18,
-          "adp": 110.2
+          "adp": 110.1
         }
       },
-      "espnAdp": 107.0,
+      "espnAdp": 106.9,
       "espnProjection": 171.4,
       "espnProjectedPpg": 10.08,
       "sleeperAdp": 128.5,
@@ -28648,7 +28648,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 13.2
+        "value": 13.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4241985.png",
       "stats": {
@@ -29410,7 +29410,7 @@
       },
       "sourceAdp": {
         "yahoo": 102.0,
-        "espn": 128.6,
+        "espn": 128.7,
         "sleeper": 84.0
       },
       "sourceBreakdown": {
@@ -29422,7 +29422,7 @@
         "espn": {
           "projection": 170.4,
           "projectedPpg": 10.02,
-          "adp": 128.6
+          "adp": 128.7
         },
         "sleeper": {
           "projection": 176.5,
@@ -29435,7 +29435,7 @@
           "adp": 104.9
         }
       },
-      "espnAdp": 128.6,
+      "espnAdp": 128.7,
       "espnProjection": 170.4,
       "espnProjectedPpg": 10.02,
       "sleeperAdp": 84.0,
@@ -29689,7 +29689,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Gainwell signed with the Buccaneers following a second-half breakout with Pittsburgh last season. After playing sparingly during the first four-and-a-half years of his career, Gainwell averaged 13.3 touches, 85.0 yards and 17.8 fantasy points from Week 8 on last season (eight games). Only five backs scored more points than Gainwell after Week 10. He did most of his damage as a receiver (top six among RBs in targets, catches and receiving yards) and will now look to earn a similar role alongside Bucky Irving in Tampa Bay. Gainwell's strong season suggests he'll have a role, but the 23-year-old Irving is likely to operate as the lead back. Gainwell is best valued as a bench/insurance stash with some flex appeal in deep PPR leagues.",
-      "adp": 113.5,
+      "adp": 113.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -29708,7 +29708,7 @@
       },
       "sourceAdp": {
         "yahoo": 103.0,
-        "espn": 107.5,
+        "espn": 107.7,
         "sleeper": 130.0
       },
       "sourceBreakdown": {
@@ -29720,7 +29720,7 @@
         "espn": {
           "projection": 172.2,
           "projectedPpg": 10.13,
-          "adp": 107.5
+          "adp": 107.7
         },
         "sleeper": {
           "projection": 156.2,
@@ -29730,10 +29730,10 @@
         "master": {
           "projection": 177.4,
           "projectedPpg": 10.44,
-          "adp": 113.5
+          "adp": 113.6
         }
       },
-      "espnAdp": 107.5,
+      "espnAdp": 107.7,
       "espnProjection": 172.2,
       "espnProjectedPpg": 10.13,
       "sleeperAdp": 130.0,
@@ -29759,7 +29759,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 12.5
+        "value": 12.6
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4371733.png",
       "stats": {
@@ -30042,7 +30042,7 @@
       },
       "sourceAdp": {
         "yahoo": 111.0,
-        "espn": 111.2,
+        "espn": 111.3,
         "sleeper": 94.5
       },
       "sourceBreakdown": {
@@ -30054,7 +30054,7 @@
         "espn": {
           "projection": 174.2,
           "projectedPpg": 10.24,
-          "adp": 111.2
+          "adp": 111.3
         },
         "sleeper": {
           "projection": 171.7,
@@ -30067,7 +30067,7 @@
           "adp": 105.6
         }
       },
-      "espnAdp": 111.2,
+      "espnAdp": 111.3,
       "espnProjection": 174.2,
       "espnProjectedPpg": 10.24,
       "sleeperAdp": 94.5,
@@ -30643,7 +30643,7 @@
         "sleeper"
       ],
       "seasonOutlook": "The reigning NFL MVP, Stafford returns for his 18th NFL season and his fifth with the Rams. The 38-year-old is fresh off an elite season in which he led the NFL in passing yards and touchdowns, which allowed him nine top-10 fantasy weeks (tied for third most at the position). Stafford's third-place finish in fantasy points per game was his first top-10 finish since 2019, and some regression is likely due to a complete lack of rushing (65 or fewer rushing yards in five straight seasons and one rushing touchdown since 2017). Stafford still has receivers Puka Nacua and Davante Adams and a strong offensive line at his disposal, so another big passing season is possible. That's just enough to keep him in the fringe QB1 mix.",
-      "adp": 130.5,
+      "adp": 130.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -30662,7 +30662,7 @@
       },
       "sourceAdp": {
         "yahoo": 116.0,
-        "espn": 95.9,
+        "espn": 95.5,
         "sleeper": 179.5
       },
       "sourceBreakdown": {
@@ -30674,7 +30674,7 @@
         "espn": {
           "projection": 293.3,
           "projectedPpg": 17.25,
-          "adp": 95.9
+          "adp": 95.5
         },
         "sleeper": {
           "projection": 102.3,
@@ -30684,10 +30684,10 @@
         "master": {
           "projection": 244.1,
           "projectedPpg": 14.36,
-          "adp": 130.5
+          "adp": 130.3
         }
       },
-      "espnAdp": 95.9,
+      "espnAdp": 95.5,
       "espnProjection": 293.3,
       "espnProjectedPpg": 17.25,
       "sleeperAdp": 179.5,
@@ -30716,7 +30716,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 26.5
+        "value": 26.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/12483.png",
       "stats": {
@@ -30980,7 +30980,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Nix enters his third NFL season after finishing exactly seventh among quarterbacks in fantasy points during each of his first two campaigns. Nix's passing efficiency has a ways to go (career 6.5 yards per attempt), but his dual-threat ability has kept him in the weekly QB1 mix. Nix has finished both seasons no lower than 11th in pass attempts, completions, passing TDs, carries, rushing yards and rushing TDs. Last season, he provided a solid floor (11 games with 15-plus fantasy points), but his ceiling was low (four top-10 weeks). In 2026, he'll have a new playcaller in Davis Webb and an upgraded group of pass catchers with Jaylen Waddle added to the mix. The 26-year-old is a fringe QB1.",
-      "adp": 104.1,
+      "adp": 104.0,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -30999,7 +30999,7 @@
       },
       "sourceAdp": {
         "yahoo": 99.0,
-        "espn": 119.3,
+        "espn": 119.1,
         "sleeper": 94.0
       },
       "sourceBreakdown": {
@@ -31011,7 +31011,7 @@
         "espn": {
           "projection": 294.7,
           "projectedPpg": 17.34,
-          "adp": 119.3
+          "adp": 119.1
         },
         "sleeper": {
           "projection": 341.1,
@@ -31021,10 +31021,10 @@
         "master": {
           "projection": 327.6,
           "projectedPpg": 19.27,
-          "adp": 104.1
+          "adp": 104.0
         }
       },
-      "espnAdp": 119.3,
+      "espnAdp": 119.1,
       "espnProjection": 294.7,
       "espnProjectedPpg": 17.34,
       "sleeperAdp": 94.0,
@@ -31052,7 +31052,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -0.9
+        "value": -1.0
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4426338.png",
       "stats": {
@@ -31335,7 +31335,7 @@
       },
       "sourceAdp": {
         "yahoo": 108.0,
-        "espn": 98.2,
+        "espn": 98.3,
         "sleeper": 50.0
       },
       "sourceBreakdown": {
@@ -31347,7 +31347,7 @@
         "espn": {
           "projection": 188.5,
           "projectedPpg": 11.09,
-          "adp": 98.2
+          "adp": 98.3
         },
         "sleeper": {
           "projection": 209.6,
@@ -31360,7 +31360,7 @@
           "adp": 85.4
         }
       },
-      "espnAdp": 98.2,
+      "espnAdp": 98.3,
       "espnProjection": 188.5,
       "espnProjectedPpg": 11.09,
       "sleeperAdp": 50.0,
@@ -31606,7 +31606,7 @@
       },
       "sourceAdp": {
         "yahoo": 109.0,
-        "espn": 92.2,
+        "espn": 92.1,
         "sleeper": 41.0
       },
       "sourceBreakdown": {
@@ -31618,7 +31618,7 @@
         "espn": {
           "projection": 176.8,
           "projectedPpg": 10.4,
-          "adp": 92.2
+          "adp": 92.1
         },
         "sleeper": {
           "projection": 196.5,
@@ -31631,7 +31631,7 @@
           "adp": 80.7
         }
       },
-      "espnAdp": 92.2,
+      "espnAdp": 92.1,
       "espnProjection": 176.8,
       "espnProjectedPpg": 10.4,
       "sleeperAdp": 41.0,
@@ -31923,7 +31923,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Kincaid is perhaps fantasy's biggest wild card among tight ends. The 2023 first-round pick has occasionally flashed a high ceiling (he actually led qualified tight ends in YPT and YPRR last season), but he also has missed substantial action (nine games the past two years) and has disappeared way too often (he failed to clear 13.1 fantasy points in any game in 2024, and never cleared six targets in a game in 2025). Kincaid was limited to a 37% snap share when active last season, and he has yet to finish a season better than 14th in fantasy PPG. The 26-year-old has TE1 upside, but he's tough to trust and has added target competition (WR DJ Moore) in 2026. Consider Kincaid only in the mid-to-late rounds.",
-      "adp": 117.7,
+      "adp": 117.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -31942,7 +31942,7 @@
       },
       "sourceAdp": {
         "yahoo": 101.0,
-        "espn": 152.7,
+        "espn": 152.9,
         "sleeper": 99.5
       },
       "sourceBreakdown": {
@@ -31954,7 +31954,7 @@
         "espn": {
           "projection": 155.6,
           "projectedPpg": 9.15,
-          "adp": 152.7
+          "adp": 152.9
         },
         "sleeper": {
           "projection": 158.6,
@@ -31964,10 +31964,10 @@
         "master": {
           "projection": 157.3,
           "projectedPpg": 9.25,
-          "adp": 117.7
+          "adp": 117.8
         }
       },
-      "espnAdp": 152.7,
+      "espnAdp": 152.9,
       "espnProjection": 155.6,
       "espnProjectedPpg": 9.15,
       "sleeperAdp": 99.5,
@@ -31995,7 +31995,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 9.7
+        "value": 9.8
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4385690.png",
       "stats": {
@@ -32213,7 +32213,7 @@
       },
       "sourceAdp": {
         "yahoo": 114.0,
-        "espn": 109.1,
+        "espn": 109.2,
         "sleeper": 84.0
       },
       "sourceBreakdown": {
@@ -32225,7 +32225,7 @@
         "espn": {
           "projection": 167.2,
           "projectedPpg": 9.83,
-          "adp": 109.1
+          "adp": 109.2
         },
         "sleeper": {
           "projection": 168.2,
@@ -32238,7 +32238,7 @@
           "adp": 102.4
         }
       },
-      "espnAdp": 109.1,
+      "espnAdp": 109.2,
       "espnProjection": 167.2,
       "espnProjectedPpg": 9.83,
       "sleeperAdp": 84.0,
@@ -32549,7 +32549,7 @@
       },
       "sourceAdp": {
         "yahoo": 120.0,
-        "espn": 82.8,
+        "espn": 82.7,
         "sleeper": 129.0
       },
       "sourceBreakdown": {
@@ -32561,7 +32561,7 @@
         "espn": {
           "projection": 189.6,
           "projectedPpg": 12.64,
-          "adp": 82.8
+          "adp": 82.7
         },
         "sleeper": {
           "projection": 135.6,
@@ -32574,7 +32574,7 @@
           "adp": 110.6
         }
       },
-      "espnAdp": 82.8,
+      "espnAdp": 82.7,
       "espnProjection": 189.6,
       "espnProjectedPpg": 12.64,
       "sleeperAdp": 129.0,
@@ -32788,7 +32788,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Downs has settled in as a serviceable slot receiver, which has helped him to finish in the 35-to-45 range among WRs in total fantasy points in each of his three NFL seasons. Downs peaked with a 72-803-5 receiving line in 2024, but took a step back in a crowded offense last season, and failed to deliver a single fantasy week better than 15th at the position. The undersized Downs isn't an option near the goal line, as he hasn't cleared five touchdowns or three end zone targets in a single season. The 25-year-old has a path to a larger role in 2026 with Michael Pittman Jr. gone, leaving Alec Pierce and Tyler Warren as his primary target competition. Downs is a sleeper for flex production in PPR formats.",
-      "adp": 101.8,
+      "adp": 101.9,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -32807,7 +32807,7 @@
       },
       "sourceAdp": {
         "yahoo": 110.0,
-        "espn": 129.5,
+        "espn": 129.6,
         "sleeper": 66.0
       },
       "sourceBreakdown": {
@@ -32819,7 +32819,7 @@
         "espn": {
           "projection": 164.8,
           "projectedPpg": 9.69,
-          "adp": 129.5
+          "adp": 129.6
         },
         "sleeper": {
           "projection": 186.0,
@@ -32829,10 +32829,10 @@
         "master": {
           "projection": 185.1,
           "projectedPpg": 10.89,
-          "adp": 101.8
+          "adp": 101.9
         }
       },
-      "espnAdp": 129.5,
+      "espnAdp": 129.6,
       "espnProjection": 164.8,
       "espnProjectedPpg": 9.69,
       "sleeperAdp": 66.0,
@@ -32860,7 +32860,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -9.2
+        "value": -9.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4688813.png",
       "stats": {
@@ -33130,7 +33130,7 @@
       },
       "sourceAdp": {
         "yahoo": 107.0,
-        "espn": 142.3,
+        "espn": 142.4,
         "sleeper": 93.0
       },
       "sourceBreakdown": {
@@ -33142,7 +33142,7 @@
         "espn": {
           "projection": 170.9,
           "projectedPpg": 10.05,
-          "adp": 142.3
+          "adp": 142.4
         },
         "sleeper": {
           "projection": 171.5,
@@ -33155,7 +33155,7 @@
           "adp": 114.1
         }
       },
-      "espnAdp": 142.3,
+      "espnAdp": 142.4,
       "espnProjection": 170.9,
       "espnProjectedPpg": 10.05,
       "sleeperAdp": 93.0,
@@ -34305,7 +34305,7 @@
       },
       "sourceAdp": {
         "yahoo": 119.0,
-        "espn": 108.4,
+        "espn": 108.6,
         "sleeper": 135.5
       },
       "sourceBreakdown": {
@@ -34317,7 +34317,7 @@
         "espn": {
           "projection": 174.5,
           "projectedPpg": 10.27,
-          "adp": 108.4
+          "adp": 108.6
         },
         "sleeper": {
           "projection": 151.5,
@@ -34330,7 +34330,7 @@
           "adp": 121.0
         }
       },
-      "espnAdp": 108.4,
+      "espnAdp": 108.6,
       "espnProjection": 174.5,
       "espnProjectedPpg": 10.27,
       "sleeperAdp": 135.5,
@@ -34622,7 +34622,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Goedert enters the 2026 season as the poster boy for inevitable touchdown regression to the mean. After scoring 24 touchdowns in his first seven seasons (3.4 per year), Goedert inexplicably leaped to 11 scores in 15 games in 2025. Goedert's expected TD total was 5.1, and he saw only five end zone targets (12 tight ends saw more). Goedert is a solid fantasy tight end -- he has finished 12th or better in PPG each of the past seven seasons -- but he often misses games (at least two in each of the past six years) and has never finished in the top eight at the position in targets or catches. The 31-year-old is likely to deliver fringe-TE1 numbers in 2026.",
-      "adp": 113.5,
+      "adp": 113.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -34641,7 +34641,7 @@
       },
       "sourceAdp": {
         "yahoo": 106.0,
-        "espn": 104.1,
+        "espn": 104.2,
         "sleeper": 130.5
       },
       "sourceBreakdown": {
@@ -34653,7 +34653,7 @@
         "espn": {
           "projection": 176.6,
           "projectedPpg": 10.39,
-          "adp": 104.1
+          "adp": 104.2
         },
         "sleeper": {
           "projection": 133.2,
@@ -34663,10 +34663,10 @@
         "master": {
           "projection": 160.9,
           "projectedPpg": 9.46,
-          "adp": 113.5
+          "adp": 113.6
         }
       },
-      "espnAdp": 104.1,
+      "espnAdp": 104.2,
       "espnProjection": 176.6,
       "espnProjectedPpg": 10.39,
       "sleeperAdp": 130.5,
@@ -34694,7 +34694,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -3.5
+        "value": -3.4
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3121023.png",
       "stats": {
@@ -34951,7 +34951,7 @@
       },
       "sourceAdp": {
         "yahoo": 130.0,
-        "espn": 162.4,
+        "espn": 162.3,
         "sleeper": 100.0
       },
       "sourceBreakdown": {
@@ -34963,7 +34963,7 @@
         "espn": {
           "projection": 259.3,
           "projectedPpg": 15.25,
-          "adp": 162.4
+          "adp": 162.3
         },
         "sleeper": {
           "projection": 336.1,
@@ -34976,7 +34976,7 @@
           "adp": 130.8
         }
       },
-      "espnAdp": 162.4,
+      "espnAdp": 162.3,
       "espnProjection": 259.3,
       "espnProjectedPpg": 15.25,
       "sleeperAdp": 100.0,
@@ -35261,7 +35261,7 @@
       },
       "sourceAdp": {
         "yahoo": 128.0,
-        "espn": 144.1,
+        "espn": 144.0,
         "sleeper": 88.5
       },
       "sourceBreakdown": {
@@ -35273,7 +35273,7 @@
         "espn": {
           "projection": 170.8,
           "projectedPpg": 10.05,
-          "adp": 144.1
+          "adp": 144.0
         },
         "sleeper": {
           "projection": 171.7,
@@ -35286,7 +35286,7 @@
           "adp": 120.2
         }
       },
-      "espnAdp": 144.1,
+      "espnAdp": 144.0,
       "espnProjection": 170.8,
       "espnProjectedPpg": 10.05,
       "sleeperAdp": 88.5,
@@ -35565,7 +35565,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Likely signed with the Giants after four years of backing up Mark Andrews in Baltimore. Likely is reuniting with coach John Harbaugh and is finally expected to play a consistent offensive role. During his time in Baltimore, Likely was limited to 50% of the team's offensive snaps and never finished a season better than 20th among tight ends in snaps, routes, targets, catches, yards or fantasy PPG. His only extensive stretch with Andrews sidelined came back in 2023. During the seven-game span, Likely posted a 23-356-6 receiving line on a 16% target share and averaged a solid 13.5 fantasy PPG. The 26-year-old is obviously unproven, but his receiving skills in New York's ascending offense are enough to put him on the TE2 radar.",
-      "adp": 119.2,
+      "adp": 119.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -35584,7 +35584,7 @@
       },
       "sourceAdp": {
         "yahoo": 118.0,
-        "espn": 128.0,
+        "espn": 127.8,
         "sleeper": 111.5
       },
       "sourceBreakdown": {
@@ -35596,7 +35596,7 @@
         "espn": {
           "projection": 156.7,
           "projectedPpg": 9.22,
-          "adp": 128.0
+          "adp": 127.8
         },
         "sleeper": {
           "projection": 148.5,
@@ -35606,10 +35606,10 @@
         "master": {
           "projection": 154.0,
           "projectedPpg": 9.06,
-          "adp": 119.2
+          "adp": 119.1
         }
       },
-      "espnAdp": 128.0,
+      "espnAdp": 127.8,
       "espnProjection": 156.7,
       "espnProjectedPpg": 9.22,
       "sleeperAdp": 111.5,
@@ -35637,7 +35637,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -0.8
+        "value": -0.9
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4361050.png",
       "stats": {
@@ -35881,7 +35881,7 @@
       },
       "sourceAdp": {
         "yahoo": 97.0,
-        "espn": 133.6,
+        "espn": 133.5,
         "sleeper": 145.0
       },
       "sourceBreakdown": {
@@ -35893,7 +35893,7 @@
         "espn": {
           "projection": 151.6,
           "projectedPpg": 8.92,
-          "adp": 133.6
+          "adp": 133.5
         },
         "sleeper": {
           "projection": 142.9,
@@ -35906,7 +35906,7 @@
           "adp": 125.2
         }
       },
-      "espnAdp": 133.6,
+      "espnAdp": 133.5,
       "espnProjection": 151.6,
       "espnProjectedPpg": 8.92,
       "sleeperAdp": 145.0,
@@ -36397,7 +36397,7 @@
       },
       "sourceAdp": {
         "yahoo": 132.0,
-        "espn": 126.4,
+        "espn": 126.5,
         "sleeper": 123.5
       },
       "sourceBreakdown": {
@@ -36409,7 +36409,7 @@
         "espn": {
           "projection": 162.5,
           "projectedPpg": 9.56,
-          "adp": 126.4
+          "adp": 126.5
         },
         "sleeper": {
           "projection": 149.0,
@@ -36422,7 +36422,7 @@
           "adp": 127.3
         }
       },
-      "espnAdp": 126.4,
+      "espnAdp": 126.5,
       "espnProjection": 162.5,
       "espnProjectedPpg": 9.56,
       "sleeperAdp": 123.5,
@@ -36511,7 +36511,7 @@
       },
       "sourceAdp": {
         "yahoo": 138.0,
-        "espn": 157.6,
+        "espn": 157.5,
         "sleeper": 114.0
       },
       "sourceBreakdown": {
@@ -36523,7 +36523,7 @@
         "espn": {
           "projection": 264.8,
           "projectedPpg": 15.58,
-          "adp": 157.6
+          "adp": 157.5
         },
         "sleeper": {
           "projection": 323.9,
@@ -36536,7 +36536,7 @@
           "adp": 136.5
         }
       },
-      "espnAdp": 157.6,
+      "espnAdp": 157.5,
       "espnProjection": 264.8,
       "espnProjectedPpg": 15.58,
       "sleeperAdp": 114.0,
@@ -36847,7 +36847,7 @@
       },
       "sourceAdp": {
         "yahoo": 122.0,
-        "espn": 159.8,
+        "espn": 159.7,
         "sleeper": 98.0
       },
       "sourceBreakdown": {
@@ -36859,7 +36859,7 @@
         "espn": {
           "projection": 141.5,
           "projectedPpg": 8.32,
-          "adp": 159.8
+          "adp": 159.7
         },
         "sleeper": {
           "projection": 168.8,
@@ -36872,7 +36872,7 @@
           "adp": 126.6
         }
       },
-      "espnAdp": 159.8,
+      "espnAdp": 159.7,
       "espnProjection": 141.5,
       "espnProjectedPpg": 8.32,
       "sleeperAdp": 98.0,
@@ -37795,7 +37795,7 @@
         "sleeper"
       ],
       "seasonOutlook": "One of the surprise second-half breakout players of 2025, Shough scored 17-plus fantasy points in seven of his nine full games, including six straight to end the season. The 2025 second-round pick was a solid producer with his arm (250.1 passing yards per game) and his legs (19.3 rushing yards per game and three TDs). Shough didn't show a high ceiling (he never reached 22 fantasy points in a game), though that can be traced to a shaky supporting cast. That's an area that should be better in 2026 with Travis Etienne Jr. and No. 8 overall pick Jordyn Tyson joining the team. He's still unproven, but Shough enters Year 2 (same as coach Kellen Moore) as an intriguing fantasy breakout candidate. He's worth a look in the later rounds.",
-      "adp": 135.2,
+      "adp": 135.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -37814,7 +37814,7 @@
       },
       "sourceAdp": {
         "yahoo": 133.0,
-        "espn": 156.7,
+        "espn": 156.8,
         "sleeper": 116.0
       },
       "sourceBreakdown": {
@@ -37826,7 +37826,7 @@
         "espn": {
           "projection": 264.5,
           "projectedPpg": 15.56,
-          "adp": 156.7
+          "adp": 156.8
         },
         "sleeper": {
           "projection": 320.3,
@@ -37836,10 +37836,10 @@
         "master": {
           "projection": 305.4,
           "projectedPpg": 17.96,
-          "adp": 135.2
+          "adp": 135.3
         }
       },
-      "espnAdp": 156.7,
+      "espnAdp": 156.8,
       "espnProjection": 264.5,
       "espnProjectedPpg": 15.56,
       "sleeperAdp": 116.0,
@@ -37867,7 +37867,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 7.2
+        "value": 7.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
       "stats": {
@@ -38239,7 +38239,7 @@
       },
       "sourceAdp": {
         "yahoo": 127.0,
-        "espn": 156.5,
+        "espn": 156.6,
         "sleeper": 100.5
       },
       "sourceBreakdown": {
@@ -38251,7 +38251,7 @@
         "espn": {
           "projection": 148.2,
           "projectedPpg": 8.72,
-          "adp": 156.5
+          "adp": 156.6
         },
         "sleeper": {
           "projection": 167.3,
@@ -38264,7 +38264,7 @@
           "adp": 128.0
         }
       },
-      "espnAdp": 156.5,
+      "espnAdp": 156.6,
       "espnProjection": 148.2,
       "espnProjectedPpg": 8.72,
       "sleeperAdp": 100.5,
@@ -38820,7 +38820,7 @@
       },
       "sourceAdp": {
         "yahoo": 123.0,
-        "espn": 167.9,
+        "espn": 167.8,
         "sleeper": 158.5
       },
       "sourceBreakdown": {
@@ -38832,7 +38832,7 @@
         "espn": {
           "projection": 80.3,
           "projectedPpg": 4.73,
-          "adp": 167.9
+          "adp": 167.8
         },
         "sleeper": {
           "projection": 131.4,
@@ -38845,7 +38845,7 @@
           "adp": 149.8
         }
       },
-      "espnAdp": 167.9,
+      "espnAdp": 167.8,
       "espnProjection": 80.3,
       "espnProjectedPpg": 4.73,
       "sleeperAdp": 158.5,
@@ -39382,7 +39382,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Allgeier signed with the Cardinals during free agency. The 2022 fifth-round NFL draft pick impressed as a rookie in Atlanta, totaling 1,174 yards on 226 touches, but he hasn't come close to those marks while playing second fiddle to Bijan Robinson over the past three seasons, and he has yet to produce a top-25 fantasy campaign. Allgeier did score eight touchdowns last season, but he remains a nonfactor as a receiver, never clearing 18 catches in a season. The 26-year-old will step into a similar role in Arizona, as the primary backup and change-of-pace option behind No. 3 overall pick Jeremiyah Love. Same as in Atlanta, Allgeier has no standalone value, but he's a very good insurance stash.",
-      "adp": 160.6,
+      "adp": 160.7,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -39401,7 +39401,7 @@
       },
       "sourceAdp": {
         "yahoo": 112.0,
-        "espn": 165.9,
+        "espn": 166.0,
         "sleeper": 204.0
       },
       "sourceBreakdown": {
@@ -39413,7 +39413,7 @@
         "espn": {
           "projection": 91.4,
           "projectedPpg": 5.38,
-          "adp": 165.9
+          "adp": 166.0
         },
         "sleeper": {
           "projection": 94.6,
@@ -39423,10 +39423,10 @@
         "master": {
           "projection": 101.6,
           "projectedPpg": 5.98,
-          "adp": 160.6
+          "adp": 160.7
         }
       },
-      "espnAdp": 165.9,
+      "espnAdp": 166.0,
       "espnProjection": 91.4,
       "espnProjectedPpg": 5.38,
       "sleeperAdp": 204.0,
@@ -39454,7 +39454,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 26.6
+        "value": 26.7
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4373626.png",
       "stats": {
@@ -39718,7 +39718,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Johnson's impressive progression continued in 2025, as the converted wide receiver posted career-high marks in targets, catches, yardage and fantasy points (all four were eighth or better among tight ends). Johnson produced nine top-12 fantasy weeks, which tied for second at the position. He has finished in the top 12 in aDOT each of the past four seasons but hasn't been much of an option near the goal line (no more than four TDs or end zone targets in each of the past three seasons). The 29-year-old has added target competition, including eighth-overall pick Jordyn Tyson, but he very well could settle in as high as third in target priority in the Saints' Tyler Shough-led offense. Johnson is a fine TE2.",
-      "adp": 145.7,
+      "adp": 145.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -39737,7 +39737,7 @@
       },
       "sourceAdp": {
         "yahoo": 161.0,
-        "espn": 165.7,
+        "espn": 165.8,
         "sleeper": 110.5
       },
       "sourceBreakdown": {
@@ -39749,7 +39749,7 @@
         "espn": {
           "projection": 142.6,
           "projectedPpg": 8.39,
-          "adp": 165.7
+          "adp": 165.8
         },
         "sleeper": {
           "projection": 149.6,
@@ -39759,10 +39759,10 @@
         "master": {
           "projection": 149.5,
           "projectedPpg": 8.8,
-          "adp": 145.7
+          "adp": 145.8
         }
       },
-      "espnAdp": 165.7,
+      "espnAdp": 165.8,
       "espnProjection": 142.6,
       "espnProjectedPpg": 8.39,
       "sleeperAdp": 110.5,
@@ -39790,7 +39790,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 10.7
+        "value": 10.8
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/3929645.png",
       "stats": {
@@ -40054,7 +40054,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Marks, a fourth-round NFL draft pick in 2025, played a substantial role as a rookie, soaking up 220 touches (22nd among RBs), but he struggled with efficiency (his 3.59 yards per carry and 1.61 yards after contact both ranked near the basement) and found the end zone only five times. The result was 9.4 fantasy points per game and one top-10 fantasy outing. Marks appears ticketed for a lesser role in 2026 now that David Montgomery was brought in to serve as the likely leader of a backfield committee. Especially in an offense that doesn't use backs in the passing game very much, Marks is no more than a bench/insurance stash.",
-      "adp": 150.9,
+      "adp": 151.0,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -40073,7 +40073,7 @@
       },
       "sourceAdp": {
         "yahoo": 135.0,
-        "espn": 142.8,
+        "espn": 142.9,
         "sleeper": 175.0
       },
       "sourceBreakdown": {
@@ -40085,7 +40085,7 @@
         "espn": {
           "projection": 127.6,
           "projectedPpg": 7.51,
-          "adp": 142.8
+          "adp": 142.9
         },
         "sleeper": {
           "projection": 116.4,
@@ -40095,10 +40095,10 @@
         "master": {
           "projection": 130.4,
           "projectedPpg": 7.67,
-          "adp": 150.9
+          "adp": 151.0
         }
       },
-      "espnAdp": 142.8,
+      "espnAdp": 142.9,
       "espnProjection": 127.6,
       "espnProjectedPpg": 7.51,
       "sleeperAdp": 175.0,
@@ -40126,7 +40126,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 14.9
+        "value": 15.0
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4429059.png",
       "stats": {
@@ -40396,7 +40396,7 @@
       },
       "sourceAdp": {
         "yahoo": 152.0,
-        "espn": 160.4,
+        "espn": 160.5,
         "sleeper": 88.0
       },
       "sourceBreakdown": {
@@ -40408,7 +40408,7 @@
         "espn": {
           "projection": 149.7,
           "projectedPpg": 8.81,
-          "adp": 160.4
+          "adp": 160.5
         },
         "sleeper": {
           "projection": 166.2,
@@ -40421,7 +40421,7 @@
           "adp": 133.5
         }
       },
-      "espnAdp": 160.4,
+      "espnAdp": 160.5,
       "espnProjection": 149.7,
       "espnProjectedPpg": 8.81,
       "sleeperAdp": 88.0,
@@ -40723,7 +40723,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Golden is eyeing a Year 2 leap following a disappointing rookie season in which he was limited to 39 touches and failed to find the end zone in 14 regular-season games. Golden was limited to 53% of the snaps and never cleared six targets in a single outing. Some optimism was generated from Golden's 4-84-1 receiving line in the playoff loss to Chicago, but even with Romeo Doubs and Dontayvion Wicks gone, it's unclear if he will actually see a big boost in usage in Matt LaFleur's offense considering that no Green Bay receiver has cleared a 21% target share since Davante Adams' departure prior to 2022. The speedy Golden, who also contributes as a rusher, is a recent first-round pick entering his second season. He's worth a speculative middle-round flier.",
-      "adp": 122.9,
+      "adp": 123.0,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -40742,7 +40742,7 @@
       },
       "sourceAdp": {
         "yahoo": 137.0,
-        "espn": 116.8,
+        "espn": 116.9,
         "sleeper": 115.0
       },
       "sourceBreakdown": {
@@ -40754,7 +40754,7 @@
         "espn": {
           "projection": 185.7,
           "projectedPpg": 10.93,
-          "adp": 116.8
+          "adp": 116.9
         },
         "sleeper": {
           "projection": 153.8,
@@ -40764,10 +40764,10 @@
         "master": {
           "projection": 167.8,
           "projectedPpg": 9.87,
-          "adp": 122.9
+          "adp": 123.0
         }
       },
-      "espnAdp": 116.8,
+      "espnAdp": 116.9,
       "espnProjection": 185.7,
       "espnProjectedPpg": 10.93,
       "sleeperAdp": 115.0,
@@ -40795,7 +40795,7 @@
       "draftBadge": {
         "label": "REACH",
         "type": "reach",
-        "value": -15.1
+        "value": -15.0
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4701936.png",
       "stats": {
@@ -41193,7 +41193,7 @@
       },
       "sourceAdp": {
         "yahoo": 147.0,
-        "espn": 167.9,
+        "espn": 167.8,
         "sleeper": 218.0
       },
       "sourceBreakdown": {
@@ -41205,7 +41205,7 @@
         "espn": {
           "projection": 93.8,
           "projectedPpg": 5.52,
-          "adp": 167.9
+          "adp": 167.8
         },
         "sleeper": {
           "projection": 88.8,
@@ -41218,7 +41218,7 @@
           "adp": 177.6
         }
       },
-      "espnAdp": 167.9,
+      "espnAdp": 167.8,
       "espnProjection": 93.8,
       "espnProjectedPpg": 5.52,
       "sleeperAdp": 218.0,
@@ -42136,7 +42136,7 @@
       },
       "sourceAdp": {
         "yahoo": 201.0,
-        "espn": 168.7,
+        "espn": 168.6,
         "sleeper": 123.0
       },
       "sourceBreakdown": {
@@ -42148,7 +42148,7 @@
         "espn": {
           "projection": 133.4,
           "projectedPpg": 7.85,
-          "adp": 168.7
+          "adp": 168.6
         },
         "sleeper": {
           "projection": 141.0,
@@ -42161,7 +42161,7 @@
           "adp": 164.2
         }
       },
-      "espnAdp": 168.7,
+      "espnAdp": 168.6,
       "espnProjection": 133.4,
       "espnProjectedPpg": 7.85,
       "sleeperAdp": 123.0,
@@ -42787,7 +42787,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Sadiq was selected by the Jets with the No. 16 pick of April's draft. After playing a limited role his first two collegiate seasons, he broke out with a 51-560-8 receiving line in 2025. He handled a respectable 17% of Oregon's targets and aligned in the slot 62% of the time. Sadiq is a bit on the small side, but he totaled 106 targets in three collegiate seasons. He needs to cut down on drops (six on 70 targets in 2025), but he's one of the youngest players in this rookie class and crushed it at the combine, posting a ridiculous 4.39 40-yard dash at 241 pounds (130 speed score) and a 43.5-inch vertical, 133-inch broad jump and 26 bench reps. Sadiq's career might start slow, especially with Mason Taylor also on the Jets' TE depth chart, but the rookie has the upside to eventually emerge as a fantasy TE1. Consider him with a mid-to-late pick.",
-      "adp": 154.2,
+      "adp": 154.3,
       "adpSource": "average",
       "adpSources": [
         "espn",
@@ -42805,7 +42805,7 @@
       },
       "sourceAdp": {
         "yahoo": null,
-        "espn": 147.5,
+        "espn": 147.6,
         "sleeper": 161.0
       },
       "sourceBreakdown": {
@@ -42817,7 +42817,7 @@
         "espn": {
           "projection": 162.4,
           "projectedPpg": 9.55,
-          "adp": 147.5
+          "adp": 147.6
         },
         "sleeper": {
           "projection": 109.5,
@@ -42827,10 +42827,10 @@
         "master": {
           "projection": 135.9,
           "projectedPpg": 8.0,
-          "adp": 154.2
+          "adp": 154.3
         }
       },
-      "espnAdp": 147.5,
+      "espnAdp": 147.6,
       "espnProjection": 162.4,
       "espnProjectedPpg": 9.55,
       "sleeperAdp": 161.0,
@@ -42858,7 +42858,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 9.2
+        "value": 9.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/5083315.png",
       "stats": {
@@ -42899,7 +42899,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Rodriguez, a 2023 sixth-round NFL draft pick, spent his first three seasons with Washington and has primarily played a depth role, but he did hit career-high marks in touches (115), yardage (530) and touchdowns (six) in 2025. Rodriguez has handled more than 10 touches in nine career games and averaged 13.1 touches, 65.9 yards and 11.7 fantasy points with a total of seven touchdowns in those outings. Though he's an effective rusher, Rodriguez is not an option in the passing game (seven career targets). The 26-year-old's contract included a healthy $6.2 million in guarantees, so he's likely to have a legitimate offensive role as a counterpart to second-year backs Bhayshul Tuten and LeQuint Allen Jr. Rodriguez might score the occasional touchdown, but his role won't allow consistent fantasy output. He's best stashed on benches.",
-      "adp": 158.5,
+      "adp": 158.4,
       "adpSource": "average",
       "adpSources": [
         "espn",
@@ -42917,7 +42917,7 @@
       },
       "sourceAdp": {
         "yahoo": null,
-        "espn": 165.5,
+        "espn": 165.4,
         "sleeper": 151.5
       },
       "sourceBreakdown": {
@@ -42929,7 +42929,7 @@
         "espn": {
           "projection": 71.2,
           "projectedPpg": 4.19,
-          "adp": 165.5
+          "adp": 165.4
         },
         "sleeper": {
           "projection": 136.6,
@@ -42939,10 +42939,10 @@
         "master": {
           "projection": 103.9,
           "projectedPpg": 6.11,
-          "adp": 158.5
+          "adp": 158.4
         }
       },
-      "espnAdp": 165.5,
+      "espnAdp": 165.4,
       "espnProjection": 71.2,
       "espnProjectedPpg": 4.19,
       "sleeperAdp": 151.5,
@@ -42970,7 +42970,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 12.5
+        "value": 12.4
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4362619.png",
       "stats": {
@@ -43296,7 +43296,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Full-time focus on defense should unlock rewarding production from a unique talent. Not only can Hunter mirror receivers, he frequently turns his head to track the ball, leading to big plays in coverage.",
-      "adp": 153.4,
+      "adp": 153.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -43315,7 +43315,7 @@
       },
       "sourceAdp": {
         "yahoo": 153.0,
-        "espn": 117.1,
+        "espn": 117.0,
         "sleeper": 190.0
       },
       "sourceBreakdown": {
@@ -43327,7 +43327,7 @@
         "espn": {
           "projection": 113.0,
           "projectedPpg": 6.65,
-          "adp": 117.1
+          "adp": 117.0
         },
         "sleeper": {
           "projection": 92.4,
@@ -43337,10 +43337,10 @@
         "master": {
           "projection": 102.3,
           "projectedPpg": 6.02,
-          "adp": 153.4
+          "adp": 153.3
         }
       },
-      "espnAdp": 117.1,
+      "espnAdp": 117.0,
       "espnProjection": 113.0,
       "espnProjectedPpg": 6.65,
       "sleeperAdp": 190.0,
@@ -43368,7 +43368,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 5.4
+        "value": 5.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685415.png",
       "stats": {
@@ -43502,7 +43502,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Okonkwo signed with the Commanders after spending his first four seasons in Tennessee. The 2022 fourth-round pick is one of only four tight ends who have appeared in all 68 games since he entered the league, and he's also one of only six tight ends who have registered 50-plus receptions each of the past three seasons. On the other hand, Okonkwo has yet to clear a 16% target share in a single season, and he has been a nonfactor near the goal line (eight TDs and 11 end zone targets in his career). As a result, he has finished exactly 21st in fantasy points each of the past three seasons. Perhaps he'll make a leap as one of Jayden Daniels' top targets, but the 27-year-old is no more than a back-end TE2 lottery ticket.",
-      "adp": 164.6,
+      "adp": 164.5,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -43521,7 +43521,7 @@
       },
       "sourceAdp": {
         "yahoo": 185.0,
-        "espn": 168.7,
+        "espn": 168.6,
         "sleeper": 140.0
       },
       "sourceBreakdown": {
@@ -43533,7 +43533,7 @@
         "espn": {
           "projection": 122.3,
           "projectedPpg": 7.19,
-          "adp": 168.7
+          "adp": 168.6
         },
         "sleeper": {
           "projection": 129.6,
@@ -43543,10 +43543,10 @@
         "master": {
           "projection": 130.8,
           "projectedPpg": 7.69,
-          "adp": 164.6
+          "adp": 164.5
         }
       },
-      "espnAdp": 168.7,
+      "espnAdp": 168.6,
       "espnProjection": 122.3,
       "espnProjectedPpg": 7.19,
       "sleeperAdp": 140.0,
@@ -43572,7 +43572,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 15.6
+        "value": 15.5
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4360635.png",
       "stats": {
@@ -44191,7 +44191,7 @@
       },
       "sourceAdp": {
         "yahoo": 158.0,
-        "espn": 161.2,
+        "espn": 161.1,
         "sleeper": 148.0
       },
       "sourceBreakdown": {
@@ -44203,7 +44203,7 @@
         "espn": {
           "projection": 104.9,
           "projectedPpg": 6.17,
-          "adp": 161.2
+          "adp": 161.1
         },
         "sleeper": {
           "projection": 127.3,
@@ -44216,7 +44216,7 @@
           "adp": 155.7
         }
       },
-      "espnAdp": 161.2,
+      "espnAdp": 161.1,
       "espnProjection": 104.9,
       "espnProjectedPpg": 6.17,
       "sleeperAdp": 148.0,
@@ -44286,7 +44286,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Charbonnet would've been entering his fourth NFL season as the clear lead back in Seattle, but a torn ACL during the team's playoff game against the 49ers has put his 2026 campaign in jeopardy. It's a tough break for the 2020 second-round NFL draft pick, who set career-high marks in touches (204) while ranking fifth among backs in rushing touchdowns (12) and carries inside the 5-yard line (16) last season. Charbonnet's minimal receiving role (career-low 24 targets) limited him to 11.3 fantasy points per game, however, and he has yet to deliver a top-20 fantasy campaign. Kenneth Walker III is gone, but first-round rookie Jadarian Price could very well cement himself a big offensive role by the time Charbonnet is healthy. The 25-year-old is worth only a late-round lottery ticket.",
-      "adp": 179.2,
+      "adp": 179.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -44305,7 +44305,7 @@
       },
       "sourceAdp": {
         "yahoo": 126.0,
-        "espn": 139.7,
+        "espn": 139.8,
         "sleeper": 272.0
       },
       "sourceBreakdown": {
@@ -44317,7 +44317,7 @@
         "espn": {
           "projection": 133.7,
           "projectedPpg": 12.15,
-          "adp": 139.7
+          "adp": 139.8
         },
         "sleeper": {
           "projection": 56.5,
@@ -44327,10 +44327,10 @@
         "master": {
           "projection": 104.0,
           "projectedPpg": 7.55,
-          "adp": 179.2
+          "adp": 179.3
         }
       },
-      "espnAdp": 139.7,
+      "espnAdp": 139.8,
       "espnProjection": 133.7,
       "espnProjectedPpg": 12.15,
       "sleeperAdp": 272.0,
@@ -44358,7 +44358,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 27.2
+        "value": 27.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4426385.png",
       "stats": {
@@ -44742,7 +44742,7 @@
       },
       "sourceAdp": {
         "yahoo": 142.0,
-        "espn": 146.1,
+        "espn": 146.2,
         "sleeper": 165.5
       },
       "sourceBreakdown": {
@@ -44754,7 +44754,7 @@
         "espn": {
           "projection": 149.1,
           "projectedPpg": 8.77,
-          "adp": 146.1
+          "adp": 146.2
         },
         "sleeper": {
           "projection": 123.4,
@@ -44767,7 +44767,7 @@
           "adp": 151.2
         }
       },
-      "espnAdp": 146.1,
+      "espnAdp": 146.2,
       "espnProjection": 149.1,
       "espnProjectedPpg": 8.77,
       "sleeperAdp": 165.5,
@@ -45026,7 +45026,7 @@
       },
       "sourceAdp": {
         "yahoo": 149.0,
-        "espn": 148.2,
+        "espn": 148.0,
         "sleeper": 293.0
       },
       "sourceBreakdown": {
@@ -45038,7 +45038,7 @@
         "espn": {
           "projection": 124.4,
           "projectedPpg": 7.32,
-          "adp": 148.2
+          "adp": 148.0
         },
         "sleeper": {
           "projection": 50.8,
@@ -45051,7 +45051,7 @@
           "adp": 196.7
         }
       },
-      "espnAdp": 148.2,
+      "espnAdp": 148.0,
       "espnProjection": 124.4,
       "espnProjectedPpg": 7.32,
       "sleeperAdp": 293.0,
@@ -45604,7 +45604,7 @@
       },
       "sourceAdp": {
         "yahoo": 157.0,
-        "espn": 160.3,
+        "espn": 160.1,
         "sleeper": 129.5
       },
       "sourceBreakdown": {
@@ -45616,7 +45616,7 @@
         "espn": {
           "projection": 144.4,
           "projectedPpg": 8.49,
-          "adp": 160.3
+          "adp": 160.1
         },
         "sleeper": {
           "projection": 143.3,
@@ -45629,7 +45629,7 @@
           "adp": 148.9
         }
       },
-      "espnAdp": 160.3,
+      "espnAdp": 160.1,
       "espnProjection": 144.4,
       "espnProjectedPpg": 8.49,
       "sleeperAdp": 129.5,
@@ -45934,7 +45934,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Pacheco signed with Detroit in the offseason after a four-year stint with the Chiefs. The 2022 seventh-round NFL draft pick opened his pro career with a bang, totaling 2,139 yards and 14 touchdowns on 432 touches during his first two seasons (31 games). Injuries and a big drop in efficiency have limited him to 952 yards and three TDs on 232 touches over the past two seasons (20 games) and ultimately led to his exit from Kansas City. The 27-year-old will now get a shot to replace David Montgomery as Detroit's change-of-pace back to Jahmyr Gibbs. Pacheco might hit for the occasional touchdown, but he won't have standalone fantasy value unless Gibbs misses time. Consider Pacheco a late-round insurance flier.",
-      "adp": 175.8,
+      "adp": 175.7,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -45953,7 +45953,7 @@
       },
       "sourceAdp": {
         "yahoo": 148.0,
-        "espn": 144.8,
+        "espn": 144.7,
         "sleeper": 234.5
       },
       "sourceBreakdown": {
@@ -45965,7 +45965,7 @@
         "espn": {
           "projection": 123.6,
           "projectedPpg": 7.27,
-          "adp": 144.8
+          "adp": 144.7
         },
         "sleeper": {
           "projection": 80.8,
@@ -45975,10 +45975,10 @@
         "master": {
           "projection": 109.8,
           "projectedPpg": 6.46,
-          "adp": 175.8
+          "adp": 175.7
         }
       },
-      "espnAdp": 144.8,
+      "espnAdp": 144.7,
       "espnProjection": 123.6,
       "espnProjectedPpg": 7.27,
       "sleeperAdp": 234.5,
@@ -46006,7 +46006,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 17.8
+        "value": 17.7
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4361529.png",
       "stats": {
@@ -46404,7 +46404,7 @@
       },
       "sourceAdp": {
         "yahoo": 193.0,
-        "espn": 150.2,
+        "espn": 150.1,
         "sleeper": 120.0
       },
       "sourceBreakdown": {
@@ -46416,7 +46416,7 @@
         "espn": {
           "projection": 158.1,
           "projectedPpg": 9.3,
-          "adp": 150.2
+          "adp": 150.1
         },
         "sleeper": {
           "projection": 142.2,
@@ -46429,7 +46429,7 @@
           "adp": 154.4
         }
       },
-      "espnAdp": 150.2,
+      "espnAdp": 150.1,
       "espnProjection": 158.1,
       "espnProjectedPpg": 9.3,
       "sleeperAdp": 120.0,
@@ -47334,7 +47334,7 @@
       },
       "sourceAdp": {
         "yahoo": 169.0,
-        "espn": 167.2,
+        "espn": 167.1,
         "sleeper": 147.5
       },
       "sourceBreakdown": {
@@ -47346,7 +47346,7 @@
         "espn": {
           "projection": 138.0,
           "projectedPpg": 8.12,
-          "adp": 167.2
+          "adp": 167.1
         },
         "sleeper": {
           "projection": 127.9,
@@ -47359,7 +47359,7 @@
           "adp": 161.2
         }
       },
-      "espnAdp": 167.2,
+      "espnAdp": 167.1,
       "espnProjection": 138.0,
       "espnProjectedPpg": 8.12,
       "sleeperAdp": 147.5,
@@ -48391,7 +48391,7 @@
       },
       "sourceAdp": {
         "yahoo": 159.0,
-        "espn": 167.7,
+        "espn": 167.6,
         "sleeper": 245.5
       },
       "sourceBreakdown": {
@@ -48403,7 +48403,7 @@
         "espn": {
           "projection": 64.2,
           "projectedPpg": 3.77,
-          "adp": 167.7
+          "adp": 167.6
         },
         "sleeper": {
           "projection": 70.9,
@@ -48416,7 +48416,7 @@
           "adp": 190.7
         }
       },
-      "espnAdp": 167.7,
+      "espnAdp": 167.6,
       "espnProjection": 64.2,
       "espnProjectedPpg": 3.77,
       "sleeperAdp": 245.5,
@@ -50268,7 +50268,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Hopes were high for Allen entering 2025, but a slow start was followed by a season-ending knee injury in Week 4. During Weeks 1-3, Allen played 28% of the Jets' snaps and totaled 67 yards and one touchdown on 16 touches. The 2024 fourth-round pick has shown he can contribute as both a rusher (110 career carries) and receiver (32 targets), but he's simply not going to see the field much as long as feature back Breece Hall is healthy. Allen, 22, has some late-round insurance stash appeal, as he'd likely start over Isaiah Davis in the event of a Hall injury and would thus find himself on the flex radar.",
-      "adp": 180.6,
+      "adp": 180.5,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -50287,7 +50287,7 @@
       },
       "sourceAdp": {
         "yahoo": 145.0,
-        "espn": 170.2,
+        "espn": 170.1,
         "sleeper": 226.5
       },
       "sourceBreakdown": {
@@ -50299,7 +50299,7 @@
         "espn": {
           "projection": 87.4,
           "projectedPpg": 5.14,
-          "adp": 170.2
+          "adp": 170.1
         },
         "sleeper": {
           "projection": 86.3,
@@ -50309,10 +50309,10 @@
         "master": {
           "projection": 95.0,
           "projectedPpg": 5.58,
-          "adp": 180.6
+          "adp": 180.5
         }
       },
-      "espnAdp": 170.2,
+      "espnAdp": 170.1,
       "espnProjection": 87.4,
       "espnProjectedPpg": 5.14,
       "sleeperAdp": 226.5,
@@ -50340,7 +50340,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 6.6
+        "value": 6.5
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685247.png",
       "stats": {
@@ -51433,7 +51433,7 @@
       },
       "sourceAdp": {
         "yahoo": 217.0,
-        "espn": 170.7,
+        "espn": 170.8,
         "sleeper": 185.0
       },
       "sourceBreakdown": {
@@ -51445,7 +51445,7 @@
         "espn": {
           "projection": 50.7,
           "projectedPpg": 2.98,
-          "adp": 170.7
+          "adp": 170.8
         },
         "sleeper": {
           "projection": 96.3,
@@ -51458,7 +51458,7 @@
           "adp": 190.9
         }
       },
-      "espnAdp": 170.7,
+      "espnAdp": 170.8,
       "espnProjection": 50.7,
       "espnProjectedPpg": 2.98,
       "sleeperAdp": 185.0,
@@ -52567,7 +52567,7 @@
       },
       "sourceAdp": {
         "yahoo": 218.0,
-        "espn": 170.3,
+        "espn": 170.2,
         "sleeper": 170.0
       },
       "sourceBreakdown": {
@@ -52579,7 +52579,7 @@
         "espn": {
           "projection": 72.9,
           "projectedPpg": 4.29,
-          "adp": 170.3
+          "adp": 170.2
         },
         "sleeper": {
           "projection": 107.3,
@@ -52592,7 +52592,7 @@
           "adp": 186.1
         }
       },
-      "espnAdp": 170.3,
+      "espnAdp": 170.2,
       "espnProjection": 72.9,
       "espnProjectedPpg": 4.29,
       "sleeperAdp": 170.0,
@@ -53859,7 +53859,7 @@
       },
       "sourceAdp": {
         "yahoo": 255.0,
-        "espn": 170.2,
+        "espn": 170.1,
         "sleeper": 183.0
       },
       "sourceBreakdown": {
@@ -53871,7 +53871,7 @@
         "espn": {
           "projection": 95.3,
           "projectedPpg": 5.6,
-          "adp": 170.2
+          "adp": 170.1
         },
         "sleeper": {
           "projection": 98.9,
@@ -53884,7 +53884,7 @@
           "adp": 202.7
         }
       },
-      "espnAdp": 170.2,
+      "espnAdp": 170.1,
       "espnProjection": 95.3,
       "espnProjectedPpg": 5.6,
       "sleeperAdp": 183.0,
@@ -54150,7 +54150,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Ferguson is a potential breakout candidate in his second NFL season. As expected, the 2025 second-rounder played a situational role behind the likes of Tyler Higbee, Colby Parkinson and Davis Allen as a rookie. He didn't get much run, but when he did, he was used as a vertical threat to the extreme. His 17.5 aDOT is highest by any tight end (minimum 10 targets) in at least a decade. The Rams are returning the same tight end room plus second-round pick Max Klare, so while consistent production could prove elusive, Ferguson very well could emerge as the No. 3 pass catcher behind Puka Nacua and 33-year-old Davante Adams in the Rams' elite offense. The 23-year-old, who also saw five end zone targets as a rookie, is worth a late-round lottery ticket.",
-      "adp": 197.4,
+      "adp": 197.3,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -54169,7 +54169,7 @@
       },
       "sourceAdp": {
         "yahoo": 192.0,
-        "espn": 168.6,
+        "espn": 168.4,
         "sleeper": 231.5
       },
       "sourceBreakdown": {
@@ -54181,7 +54181,7 @@
         "espn": {
           "projection": 135.9,
           "projectedPpg": 7.99,
-          "adp": 168.6
+          "adp": 168.4
         },
         "sleeper": {
           "projection": 63.2,
@@ -54191,10 +54191,10 @@
         "master": {
           "projection": 94.2,
           "projectedPpg": 5.54,
-          "adp": 197.4
+          "adp": 197.3
         }
       },
-      "espnAdp": 168.6,
+      "espnAdp": 168.4,
       "espnProjection": 135.9,
       "espnProjectedPpg": 7.99,
       "sleeperAdp": 231.5,
@@ -54222,7 +54222,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 9.4
+        "value": 9.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4570037.png",
       "stats": {
@@ -55346,7 +55346,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Otton re-signed with Tampa Bay after spending his first four NFL seasons with the team. Since entering the league in 2022, Otton ranks first among all tight ends in snaps (3,530) and second in routes (1,838). That simply hasn't translated to much target volume (he is yet to clear 86 in a season) or goal-line work (11 TDs and 19 end zone targets in 63 games). In fact, Otton was the only player with 75-plus targets who didn't score multiple touchdowns last season. The 27-year-old has finished 25th or lower in fantasy PPG in three of four seasons and is a poor bet for his first top-10 finish in 2026. He's well off the fantasy radar.",
-      "adp": 199.9,
+      "adp": 199.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -55365,7 +55365,7 @@
       },
       "sourceAdp": {
         "yahoo": 286.0,
-        "espn": 170.6,
+        "espn": 170.5,
         "sleeper": 143.0
       },
       "sourceBreakdown": {
@@ -55377,7 +55377,7 @@
         "espn": {
           "projection": 102.0,
           "projectedPpg": 6.0,
-          "adp": 170.6
+          "adp": 170.5
         },
         "sleeper": {
           "projection": 126.5,
@@ -55387,10 +55387,10 @@
         "master": {
           "projection": 120.1,
           "projectedPpg": 7.06,
-          "adp": 199.9
+          "adp": 199.8
         }
       },
-      "espnAdp": 170.6,
+      "espnAdp": 170.5,
       "espnProjection": 102.0,
       "espnProjectedPpg": 6.0,
       "sleeperAdp": 143.0,
@@ -55418,7 +55418,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": 6.9
+        "value": 6.8
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4243331.png",
       "stats": {
@@ -55688,7 +55688,7 @@
       },
       "sourceAdp": {
         "yahoo": 194.0,
-        "espn": 170.5,
+        "espn": 170.4,
         "sleeper": 154.0
       },
       "sourceBreakdown": {
@@ -55700,7 +55700,7 @@
         "espn": {
           "projection": 199.8,
           "projectedPpg": 11.75,
-          "adp": 170.5
+          "adp": 170.4
         },
         "sleeper": {
           "projection": 291.0,
@@ -55713,7 +55713,7 @@
           "adp": 172.8
         }
       },
-      "espnAdp": 170.5,
+      "espnAdp": 170.4,
       "espnProjection": 199.8,
       "espnProjectedPpg": 11.75,
       "sleeperAdp": 154.0,
@@ -55966,7 +55966,7 @@
         "sleeper"
       ],
       "seasonOutlook": "A 2025 third-round pick, Bryant played a situational role throughout his rookie season and is likely to do the same in 2026 after Denver added Jaylen Waddle as a running mate for Courtland Sutton. Bryant will battle the likes of Troy Franklin, Marvin Mims Jr. and Lil'Jordan Humphrey for No. 3 duties. During his rookie campaign, Bryant barely saw the field early on, but eventually passed Franklin on the depth chart and earned more work down the stretch. That led to more snaps but not much fantasy production, as he failed to clear 13.2 fantasy points in a single game and found the end zone once. The 23-year-old isn't on the fantasy radar right now, but he makes for a fine dynasty stash.",
-      "adp": 188.6,
+      "adp": 188.7,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -55985,7 +55985,7 @@
       },
       "sourceAdp": {
         "yahoo": 222.0,
-        "espn": 170.9,
+        "espn": 171.0,
         "sleeper": 173.0
       },
       "sourceBreakdown": {
@@ -55997,7 +55997,7 @@
         "espn": {
           "projection": 72.7,
           "projectedPpg": 4.28,
-          "adp": 170.9
+          "adp": 171.0
         },
         "sleeper": {
           "projection": 106.0,
@@ -56007,10 +56007,10 @@
         "master": {
           "projection": 89.1,
           "projectedPpg": 5.24,
-          "adp": 188.6
+          "adp": 188.7
         }
       },
-      "espnAdp": 170.9,
+      "espnAdp": 171.0,
       "espnProjection": 72.7,
       "espnProjectedPpg": 4.28,
       "sleeperAdp": 173.0,
@@ -56038,7 +56038,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -6.4
+        "value": -6.3
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4600981.png",
       "stats": {
@@ -56276,7 +56276,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Davis is back as the primary insurance option behind Bills' feature back James Cook III. The 2024 fourth-round pick is one of the most valuable backups in fantasy, but flies a bit under the radar due to a very small game-day role when Cook and passing-down specialist Ty Johnson are both healthy. That's been the scenario most of the last two seasons, but we've seen Davis play more than half of Buffalo's snaps in three games. During those outings, Davis averaged 21.0 touches, 130.3 yards and 19.4 fantasy points per game. The 26-year-old has no standalone value, but he'll leap into the RB2 mix should Cook miss time, which makes him worth stashing on the end of your bench.",
-      "adp": 195.1,
+      "adp": 195.2,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -56295,7 +56295,7 @@
       },
       "sourceAdp": {
         "yahoo": 175.0,
-        "espn": 170.9,
+        "espn": 171.0,
         "sleeper": 239.5
       },
       "sourceBreakdown": {
@@ -56307,7 +56307,7 @@
         "espn": {
           "projection": 38.1,
           "projectedPpg": 2.24,
-          "adp": 170.9
+          "adp": 171.0
         },
         "sleeper": {
           "projection": 75.4,
@@ -56317,10 +56317,10 @@
         "master": {
           "projection": 69.4,
           "projectedPpg": 4.09,
-          "adp": 195.1
+          "adp": 195.2
         }
       },
-      "espnAdp": 170.9,
+      "espnAdp": 171.0,
       "espnProjection": 38.1,
       "espnProjectedPpg": 2.24,
       "sleeperAdp": 239.5,
@@ -56348,7 +56348,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -0.9
+        "value": -0.8
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4429501.png",
       "stats": {
@@ -56631,7 +56631,7 @@
       },
       "sourceAdp": {
         "yahoo": 252.0,
-        "espn": 170.5,
+        "espn": 170.6,
         "sleeper": 220.0
       },
       "sourceBreakdown": {
@@ -56643,7 +56643,7 @@
         "espn": {
           "projection": 68.6,
           "projectedPpg": 4.04,
-          "adp": 170.5
+          "adp": 170.6
         },
         "sleeper": {
           "projection": 76.4,
@@ -56656,7 +56656,7 @@
           "adp": 214.2
         }
       },
-      "espnAdp": 170.5,
+      "espnAdp": 170.6,
       "espnProjection": 68.6,
       "espnProjectedPpg": 4.04,
       "sleeperAdp": 220.0,
@@ -57040,7 +57040,7 @@
       },
       "sourceAdp": {
         "yahoo": 236.0,
-        "espn": 169.7,
+        "espn": 169.6,
         "sleeper": 174.5
       },
       "sourceBreakdown": {
@@ -57052,7 +57052,7 @@
         "espn": {
           "projection": 126.8,
           "projectedPpg": 7.46,
-          "adp": 169.7
+          "adp": 169.6
         },
         "sleeper": {
           "projection": 104.8,
@@ -57065,7 +57065,7 @@
           "adp": 193.4
         }
       },
-      "espnAdp": 169.7,
+      "espnAdp": 169.6,
       "espnProjection": 126.8,
       "espnProjectedPpg": 7.46,
       "sleeperAdp": 174.5,
@@ -57773,7 +57773,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Smith was traded to the Jets following an unsuccessful one-year stint in Las Vegas. Smith, who began his career as a second-round pick with the Jets in 2013, is in line to start, though he's a long shot for consistent fantasy production. Smith peaked with a ninth-place finish in fantasy points per game with Seattle in 2022, but he has finished no better than 16th over the past three seasons. He paced the NFL in both interceptions and sacks in 2025 after finishing third in both categories in 2024 and is no longer much of a factor with his legs. The 35-year-old might bring some stability to the fantasy outlook of the team's pass catchers, but we shouldn't expect much more than that. Consider Smith only in superflex formats.",
-      "adp": 197.9,
+      "adp": 197.8,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -57792,7 +57792,7 @@
       },
       "sourceAdp": {
         "yahoo": 276.0,
-        "espn": 170.6,
+        "espn": 170.5,
         "sleeper": 147.0
       },
       "sourceBreakdown": {
@@ -57804,7 +57804,7 @@
         "espn": {
           "projection": 232.0,
           "projectedPpg": 13.65,
-          "adp": 170.6
+          "adp": 170.5
         },
         "sleeper": {
           "projection": 294.7,
@@ -57814,10 +57814,10 @@
         "master": {
           "projection": 262.9,
           "projectedPpg": 15.47,
-          "adp": 197.9
+          "adp": 197.8
         }
       },
-      "espnAdp": 170.6,
+      "espnAdp": 170.5,
       "espnProjection": 232.0,
       "espnProjectedPpg": 13.65,
       "sleeperAdp": 147.0,
@@ -57844,7 +57844,7 @@
       "draftBadge": {
         "label": "FAIR",
         "type": "fair",
-        "value": -6.1
+        "value": -6.2
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/15864.png",
       "stats": {
@@ -58424,7 +58424,7 @@
       },
       "sourceAdp": {
         "yahoo": 277.0,
-        "espn": 169.3,
+        "espn": 169.2,
         "sleeper": 138.5
       },
       "sourceBreakdown": {
@@ -58436,7 +58436,7 @@
         "espn": {
           "projection": 135.9,
           "projectedPpg": 7.99,
-          "adp": 169.3
+          "adp": 169.2
         },
         "sleeper": {
           "projection": 130.2,
@@ -58449,7 +58449,7 @@
           "adp": 194.9
         }
       },
-      "espnAdp": 169.3,
+      "espnAdp": 169.2,
       "espnProjection": 135.9,
       "espnProjectedPpg": 7.99,
       "sleeperAdp": 138.5,
@@ -59379,7 +59379,7 @@
       },
       "sourceAdp": {
         "yahoo": 262.0,
-        "espn": 170.8,
+        "espn": 170.7,
         "sleeper": 197.5
       },
       "sourceBreakdown": {
@@ -59391,7 +59391,7 @@
         "espn": {
           "projection": 64.6,
           "projectedPpg": 3.8,
-          "adp": 170.8
+          "adp": 170.7
         },
         "sleeper": {
           "projection": 79.3,
@@ -59404,7 +59404,7 @@
           "adp": 210.1
         }
       },
-      "espnAdp": 170.8,
+      "espnAdp": 170.7,
       "espnProjection": 64.6,
       "espnProjectedPpg": 3.8,
       "sleeperAdp": 197.5,
@@ -59803,7 +59803,7 @@
       },
       "sourceAdp": {
         "yahoo": 207.0,
-        "espn": 169.8,
+        "espn": 169.9,
         "sleeper": 193.5
       },
       "sourceBreakdown": {
@@ -59815,7 +59815,7 @@
         "espn": {
           "projection": 88.6,
           "projectedPpg": 5.21,
-          "adp": 169.8
+          "adp": 169.9
         },
         "sleeper": {
           "projection": 91.9,
@@ -59828,7 +59828,7 @@
           "adp": 190.1
         }
       },
-      "espnAdp": 169.8,
+      "espnAdp": 169.9,
       "espnProjection": 88.6,
       "espnProjectedPpg": 5.21,
       "sleeperAdp": 193.5,
@@ -60352,7 +60352,7 @@
       },
       "sourceAdp": {
         "yahoo": 212.0,
-        "espn": 169.9,
+        "espn": 170.0,
         "sleeper": 309.0
       },
       "sourceBreakdown": {
@@ -60364,7 +60364,7 @@
         "espn": {
           "projection": 43.7,
           "projectedPpg": 2.57,
-          "adp": 169.9
+          "adp": 170.0
         },
         "sleeper": {
           "projection": 43.5,
@@ -60377,7 +60377,7 @@
           "adp": 230.3
         }
       },
-      "espnAdp": 169.9,
+      "espnAdp": 170.0,
       "espnProjection": 43.7,
       "espnProjectedPpg": 2.57,
       "sleeperAdp": 309.0,
@@ -60687,7 +60687,7 @@
       },
       "sourceAdp": {
         "yahoo": 232.0,
-        "espn": 170.0,
+        "espn": 170.1,
         "sleeper": 397.5
       },
       "sourceBreakdown": {
@@ -60699,7 +60699,7 @@
         "espn": {
           "projection": 0.0,
           "projectedPpg": 0.0,
-          "adp": 170.0
+          "adp": 170.1
         },
         "sleeper": {
           "projection": 19.9,
@@ -60712,7 +60712,7 @@
           "adp": 266.5
         }
       },
-      "espnAdp": 170.0,
+      "espnAdp": 170.1,
       "espnProjection": 0.0,
       "espnProjectedPpg": 0.0,
       "sleeperAdp": 397.5,
@@ -61171,7 +61171,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Claiborne was selected by the Vikings in the sixth round of April's draft. Claiborne is an undersized back who struggled badly with efficiency during his four seasons at Wake Forest. On 558 career carries, Claiborne averaged 4.66 yards per attempt (second worst in this RB rookie class), 2.68 yards after contact and produced 5-plus yards on a class-low 32% of his carries. Also not much of a factor in the passing game, Claiborne may be limited to change-of-pace/return work in the pros. He'll open his career as a depth player behind Aaron Jones and Jordan Mason.",
-      "adp": 236.0,
+      "adp": 236.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -61190,7 +61190,7 @@
       },
       "sourceAdp": {
         "yahoo": 196.0,
-        "espn": 170.1,
+        "espn": 170.2,
         "sleeper": 342.0
       },
       "sourceBreakdown": {
@@ -61202,7 +61202,7 @@
         "espn": {
           "projection": 24.0,
           "projectedPpg": 1.41,
-          "adp": 170.1
+          "adp": 170.2
         },
         "sleeper": {
           "projection": 33.5,
@@ -61212,10 +61212,10 @@
         "master": {
           "projection": 35.7,
           "projectedPpg": 2.1,
-          "adp": 236.0
+          "adp": 236.1
         }
       },
-      "espnAdp": 170.1,
+      "espnAdp": 170.2,
       "espnProjection": 24.0,
       "espnProjectedPpg": 1.41,
       "sleeperAdp": 342.0,
@@ -61243,7 +61243,7 @@
       "draftBadge": {
         "label": "STEAL",
         "type": "steal",
-        "value": 19.0
+        "value": 19.1
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4832846.png",
       "stats": {
@@ -61627,7 +61627,7 @@
       },
       "sourceAdp": {
         "yahoo": 248.0,
-        "espn": 169.9,
+        "espn": 169.8,
         "sleeper": 1000.0
       },
       "sourceBreakdown": {
@@ -61639,7 +61639,7 @@
         "espn": {
           "projection": 218.0,
           "projectedPpg": 12.82,
-          "adp": 169.9
+          "adp": 169.8
         },
         "sleeper": {
           "projection": 286.8,
@@ -61652,7 +61652,7 @@
           "adp": 472.6
         }
       },
-      "espnAdp": 169.9,
+      "espnAdp": 169.8,
       "espnProjection": 218.0,
       "espnProjectedPpg": 12.82,
       "sleeperAdp": 1000.0,
@@ -62596,7 +62596,7 @@
       },
       "sourceAdp": {
         "yahoo": 300.0,
-        "espn": 170.6,
+        "espn": 170.5,
         "sleeper": 166.0
       },
       "sourceBreakdown": {
@@ -62608,7 +62608,7 @@
         "espn": {
           "projection": 119.2,
           "projectedPpg": 7.01,
-          "adp": 170.6
+          "adp": 170.5
         },
         "sleeper": {
           "projection": 101.6,
@@ -62621,7 +62621,7 @@
           "adp": 212.2
         }
       },
-      "espnAdp": 170.6,
+      "espnAdp": 170.5,
       "espnProjection": 119.2,
       "espnProjectedPpg": 7.01,
       "sleeperAdp": 166.0,
@@ -62821,7 +62821,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Wright will once again compete with second-year Ollie Gordon II for backup reps behind feature back De'Von Achane. Wright has barely cleared 70 touches during each of his first two NFL seasons, but he has shined at times, including a 24-107-1 rushing line in Week 14 last season. The 2024 fourth-round pick has been effective as a rusher, but hasn't been involved in the passing game (15 targets in 25 games). The 23-year-old would be worth adding only in the event of an Achane injury and even then, it's possible he would split (or be on the short end of a committee) with Gordon in a rebuilding offense that may not score very often.",
-      "adp": 212.0,
+      "adp": 212.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -62840,7 +62840,7 @@
       },
       "sourceAdp": {
         "yahoo": 197.0,
-        "espn": 170.1,
+        "espn": 170.2,
         "sleeper": 269.0
       },
       "sourceBreakdown": {
@@ -62852,7 +62852,7 @@
         "espn": {
           "projection": 43.3,
           "projectedPpg": 2.55,
-          "adp": 170.1
+          "adp": 170.2
         },
         "sleeper": {
           "projection": 57.8,
@@ -62862,10 +62862,10 @@
         "master": {
           "projection": 58.3,
           "projectedPpg": 3.43,
-          "adp": 212.0
+          "adp": 212.1
         }
       },
-      "espnAdp": 170.1,
+      "espnAdp": 170.2,
       "espnProjection": 43.3,
       "espnProjectedPpg": 2.55,
       "sleeperAdp": 269.0,
@@ -62893,7 +62893,7 @@
       "draftBadge": {
         "label": "REACH",
         "type": "reach",
-        "value": -11.0
+        "value": -10.9
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4682745.png",
       "stats": {
@@ -63329,7 +63329,7 @@
       },
       "sourceAdp": {
         "yahoo": 274.0,
-        "espn": 171.0,
+        "espn": 170.9,
         "sleeper": 200.0
       },
       "sourceBreakdown": {
@@ -63341,7 +63341,7 @@
         "espn": {
           "projection": 122.6,
           "projectedPpg": 7.21,
-          "adp": 171.0
+          "adp": 170.9
         },
         "sleeper": {
           "projection": 85.8,
@@ -63354,7 +63354,7 @@
           "adp": 215.0
         }
       },
-      "espnAdp": 171.0,
+      "espnAdp": 170.9,
       "espnProjection": 122.6,
       "espnProjectedPpg": 7.21,
       "sleeperAdp": 200.0,
@@ -66007,7 +66007,7 @@
       },
       "sourceAdp": {
         "yahoo": 257.0,
-        "espn": 169.9,
+        "espn": 169.8,
         "sleeper": 208.0
       },
       "sourceBreakdown": {
@@ -66019,7 +66019,7 @@
         "espn": {
           "projection": 34.2,
           "projectedPpg": 2.01,
-          "adp": 169.9
+          "adp": 169.8
         },
         "sleeper": {
           "projection": 81.2,
@@ -66032,7 +66032,7 @@
           "adp": 211.6
         }
       },
-      "espnAdp": 169.9,
+      "espnAdp": 169.8,
       "espnProjection": 34.2,
       "espnProjectedPpg": 2.01,
       "sleeperAdp": 208.0,
@@ -67311,7 +67311,7 @@
         "sleeper"
       ],
       "seasonOutlook": "James is an intriguing insurance stash as a candidate to work as 30-year-old Christian McCaffrey's primary backup in San Francisco. The 2025 fifth-round pick didn't record a single touch on three snaps during a rookie campaign spent buried behind McCaffrey and a host of veterans. James wasn't utilized much as a receiver at the collegiate level and underwhelmed at last year's combine, so it's unclear what his upside will be in the pros. However, if the 22-year-old wins the No. 2 gig over rookie Kaelon Black and McCaffrey misses action, he'll be a priority add. Consider him in the final few rounds in deep leagues.",
-      "adp": 220.5,
+      "adp": 220.6,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -67330,7 +67330,7 @@
       },
       "sourceAdp": {
         "yahoo": 205.0,
-        "espn": 170.1,
+        "espn": 170.2,
         "sleeper": 286.5
       },
       "sourceBreakdown": {
@@ -67342,7 +67342,7 @@
         "espn": {
           "projection": 64.4,
           "projectedPpg": 3.79,
-          "adp": 170.1
+          "adp": 170.2
         },
         "sleeper": {
           "projection": 52.2,
@@ -67352,10 +67352,10 @@
         "master": {
           "projection": 63.8,
           "projectedPpg": 3.75,
-          "adp": 220.5
+          "adp": 220.6
         }
       },
-      "espnAdp": 170.1,
+      "espnAdp": 170.2,
       "espnProjection": 64.4,
       "espnProjectedPpg": 3.79,
       "sleeperAdp": 286.5,
@@ -67382,7 +67382,7 @@
       "draftBadge": {
         "label": "REACH",
         "type": "reach",
-        "value": -20.5
+        "value": -20.4
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4685397.png",
       "stats": {
@@ -68166,7 +68166,7 @@
       },
       "sourceAdp": {
         "yahoo": 283.0,
-        "espn": 170.8,
+        "espn": 170.7,
         "sleeper": 155.5
       },
       "sourceBreakdown": {
@@ -68178,7 +68178,7 @@
         "espn": {
           "projection": 107.0,
           "projectedPpg": 6.3,
-          "adp": 170.8
+          "adp": 170.7
         },
         "sleeper": {
           "projection": 113.8,
@@ -68191,7 +68191,7 @@
           "adp": 203.1
         }
       },
-      "espnAdp": 170.8,
+      "espnAdp": 170.7,
       "espnProjection": 107.0,
       "espnProjectedPpg": 6.3,
       "sleeperAdp": 155.5,
@@ -68430,7 +68430,7 @@
         "sleeper"
       ],
       "seasonOutlook": "Tonges enters his fourth NFL season very much on the fantasy radar due to a torn Achilles suffered by George Kittle during last season's playoffs. Kittle is expected to return at some point this season, but while he's out, Tonges is set to replace him as the 49ers' top pass catcher at the position. Kittle missed seven full games last season, including the playoffs (Weeks 2-6, 17, 20). During those games, Tonges handled a 17.9% target share (6.6 per game) and posted a 34-328-3 receiving line. That works out to 11.8 fantasy PPG, which would've ranked eighth among all tight ends last season, ahead of the likes of Harold Fannin Jr., Travis Kelce, Tyler Warren and Jake Ferguson. Tonges will be a fringe TE1 as long as Kittle is sidelined and is thus worth late-round consideration.",
-      "adp": 204.0,
+      "adp": 204.1,
       "adpSource": "average",
       "adpSources": [
         "yahoo",
@@ -68449,7 +68449,7 @@
       },
       "sourceAdp": {
         "yahoo": 242.0,
-        "espn": 170.6,
+        "espn": 170.7,
         "sleeper": 199.5
       },
       "sourceBreakdown": {
@@ -68461,7 +68461,7 @@
         "espn": {
           "projection": 33.5,
           "projectedPpg": 1.97,
-          "adp": 170.6
+          "adp": 170.7
         },
         "sleeper": {
           "projection": 78.2,
@@ -68471,10 +68471,10 @@
         "master": {
           "projection": 58.7,
           "projectedPpg": 3.45,
-          "adp": 204.0
+          "adp": 204.1
         }
       },
-      "espnAdp": 170.6,
+      "espnAdp": 170.7,
       "espnProjection": 33.5,
       "espnProjectedPpg": 1.97,
       "sleeperAdp": 199.5,
@@ -68502,7 +68502,7 @@
       "draftBadge": {
         "label": "REACH",
         "type": "reach",
-        "value": -42.0
+        "value": -41.9
       },
       "image": "https://a.espncdn.com/i/headshots/nfl/players/full/4259147.png",
       "stats": {
@@ -68899,7 +68899,7 @@
       },
       "sourceAdp": {
         "yahoo": 296.0,
-        "espn": 171.0,
+        "espn": 171.1,
         "sleeper": 180.0
       },
       "sourceBreakdown": {
@@ -68911,7 +68911,7 @@
         "espn": {
           "projection": 60.7,
           "projectedPpg": 3.57,
-          "adp": 171.0
+          "adp": 171.1
         },
         "sleeper": {
           "projection": 101.5,
@@ -68924,7 +68924,7 @@
           "adp": 215.7
         }
       },
-      "espnAdp": 171.0,
+      "espnAdp": 171.1,
       "espnProjection": 60.7,
       "espnProjectedPpg": 3.57,
       "sleeperAdp": 180.0,
@@ -69183,7 +69183,7 @@
       },
       "sourceAdp": {
         "yahoo": 279.0,
-        "espn": 170.6,
+        "espn": 170.5,
         "sleeper": 204.5
       },
       "sourceBreakdown": {
@@ -69195,7 +69195,7 @@
         "espn": {
           "projection": 106.4,
           "projectedPpg": 6.26,
-          "adp": 170.6
+          "adp": 170.5
         },
         "sleeper": {
           "projection": 75.3,
@@ -69208,7 +69208,7 @@
           "adp": 218.0
         }
       },
-      "espnAdp": 170.6,
+      "espnAdp": 170.5,
       "espnProjection": 106.4,
       "espnProjectedPpg": 6.26,
       "sleeperAdp": 204.5,
